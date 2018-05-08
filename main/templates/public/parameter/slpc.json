@@ -1,0 +1,71 @@
+[{
+	"id":"00",
+	"name":"Europe salt power cord",
+
+	"parameter": [
+		{"Plug":"2pin Plug"}, 
+		{"Switch":"On/off,Dimmer switch"},
+		{"Lamp Holder":"E14 lamp holder"},
+		{"Color":"Black color/white color"},
+		{"Length":"1.5m/1.8m"},
+		{"Suit cable":"2*0.5mm²/0.75mm²"},
+		{"Rated":"2.5A/250V"},
+		{"Certificate":"CE,VDE,Approved"}]
+ },
+ {
+	"id":"01",
+	"name":"America salt lamp power cord",
+
+	"parameter": [
+		{"Plug":"UL NEMA1-15P 2pin Plug"}, 
+		{"Switch":"On/off switch"},
+		{"Lamp Holder":"E12 lamp holder"},
+		{"Color":"Black color/white color"},
+		{"Length":"1.5m/1.8m"},
+		{"Suit cable":"SPT-2 18AWG*2C 105C"},
+		{"Rated":"3A/125V"},
+		{"Certificate":"UL,CUL,CSA Approved"}]
+ },
+ {
+	"id":"02",
+	"name":"UK salt lamp power cord",
+
+	"parameter": [
+		{"Plug":"3pin Plug"}, 
+		{"Switch":"On/off,Dimmer switch"},
+		{"Lamp Holder":"E14 lamp holder"},
+		{"Color":"Black color/white color"},
+		{"Length":"1.5m/1.8m"},
+		{"Suit cable":"2*0.5mm²/0.75mm²"},
+		{"Rated":"3A/5A/250V"},
+		{"Certificate":"CE,VDE,BSI Approved"}]
+ },
+ {
+	"id":"03",
+	"name":"Australia salt lamp power cord",
+
+	"parameter": [
+		{"Plug":"SAA D05A 2pin Plug"}, 
+		{"Switch":"On/off,Dimmer switch"},
+		{"Lamp Holder":"E14 lamp holder"},
+		{"Color":"Black color/white color"},
+		{"Length":"1.5m/1.8m"},
+		{"Suit cable":"2*0.5mm²/0.75mm²"},
+		{"Rated":"7.5A/250V"},
+		{"Certificate":"SAA  Approved"}]
+ },
+ {
+	"id":"04",
+	"name":"Korean salt power cord",
+
+	"parameter": [
+		{"Plug":"2pin Plug"}, 
+		{"Switch":"On/off,Dimmer switch"},
+		{"Lamp Holder":"E14 lamp holder"},
+		{"Color":"Black color/white color"},
+		{"Length":"1.5m/1.8m"},
+		{"Suit cable":"2*0.5mm²/0.75mm²"},
+		{"Rated":"2.5A/250V"},
+		{"Certificate":"KC Approved"}]
+ }
+]

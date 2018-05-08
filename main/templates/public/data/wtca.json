@@ -1,0 +1,47 @@
+[{
+	"id":"00",
+	"name":"QL-101",
+
+	"imgurl": [
+		"/imgs/wtca/QL-101/imgs/1.jpg",
+		"/imgs/wtca/QL-101/imgs/2.jpg"],
+
+	"parameter": [""]
+},
+{
+	"id":"01",
+	"name":"QL-102",
+
+	"imgurl": [
+		"/imgs/wtca/QL-102/imgs/1.jpg",
+		"/imgs/wtca/QL-102/imgs/2.jpg",
+		"/imgs/wtca/QL-102/imgs/3.jpg"],
+
+	"parameter": ["/imgs/wtca/QL-C102/parameter/1.jpg"]
+},
+{
+	"id":"02",
+	"name":"QL-103",
+
+	"imgurl": [
+		"/imgs/wtca/QL-103/imgs/1.jpg",
+		"/imgs/wtca/QL-103/imgs/2.jpg",
+		"/imgs/wtca/QL-103/imgs/3.jpg",
+		"/imgs/wtca/QL-103/imgs/4.jpg",
+		"/imgs/wtca/QL-103/imgs/5.jpg",
+		"/imgs/wtca/QL-103/imgs/6.jpg"],
+
+	"parameter": ["/imgs/wtca/QL-103/parameter/1.jpg"]
+},
+{
+	"id":"03",
+	"name":"QL-104",
+
+	"imgurl": [
+		"/imgs/wtca/QL-104/imgs/1.jpg",
+		"/imgs/wtca/QL-104/imgs/2.jpg",
+		"/imgs/wtca/QL-104/imgs/3.jpg"],
+
+	"parameter": ["/imgs/wtca/QL-104/parameter/1.jpg"]
+}
+]

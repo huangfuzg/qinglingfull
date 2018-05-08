@@ -1,0 +1,373 @@
+[{
+	"id":"00",
+	"name":"china_ac_power",
+
+	"china_ac_power_imgs": [
+		"/imgs/ac_power/china_ac_power/picture/Chinapowercord-1-picture.png",
+		"/imgs/ac_power/china_ac_power/picture/Chinapowercord-2-picture.png",
+		"/imgs/ac_power/china_ac_power/picture/Chinapowercord-3-picture.png",
+		"/imgs/ac_power/china_ac_power/picture/Chinapowercord-4-picture.png",
+		"/imgs/ac_power/china_ac_power/picture/Chinapowercord-5-picture.png"],
+
+	"products": [{
+		"imgurl": "/imgs/ac_power/china_ac_power/model/model1.jpg",
+		"description": ["227IEC42(RVB) 2×0.5mm² 6A250V",
+						"227IEC42(RVB) 2×0.75mm² 6A250V",
+						"227IEC52(RVV) 2×0.5mm² 6A250V",
+						"227IEC52(RVV) 2×0.75mm² 6A250V"]
+		},
+		{
+		"imgurl": "/imgs/ac_power/china_ac_power/model/model2.jpg",
+		"description": ["227IEC52(RVV) 2×0.75mm² 6A250V",
+						"227IEC53(RVV) 2×0.75mm² 6A250V",
+						"227IEC53(RVV) 2×1.0mm² 10A250V",
+						"227IEC42(RVB) 2×0.5mm² 6A250V",
+						"227IEC42(RVB) 2×0.75mm² 6A250V",
+						"227IEC52(RVV) 2×0.5mm² 6A250V",
+						"227IEC52(RVV) 2×0.75mm² 6A250V"]
+		},
+		{
+		"imgurl": "/imgs/ac_power/china_ac_power/model/model3.jpg",
+		"description": ["227IEC52（RVV） 3×0.5mm² 6A250V",
+						"227IEC52（RVV） 3×0.75mm² 6A250V",
+						"227IEC53（RVV） 3×0.75mm²  6A250V",
+						"227IEC53（RVV） 3×1.0mm² 10A250V"]
+		},
+		{
+		"imgurl": "/imgs/ac_power/china_ac_power/model/model4.jpg",
+		"description": ["227IEC52（RVV） 3×0.5mm² 6A250V",
+						"227IEC52（RVV） 3×0.75mm² 6A250V",
+						"227IEC53（RVV） 3×0.75mm² 6A250V",
+						"227IEC53（RVV） 3×1.0mm² 10A250V"]
+		},
+		{
+		"imgurl": "/imgs/ac_power/china_ac_power/model/model5.jpg",
+		"description": ["227IEC52（RVV） 3×0.5mm² 6A250V",
+						"227IEC52（RVV) 3×0.75mm² 6A250V",
+						"227IEC53（RVV） 3×0.75mm² 6A250V",
+						"227IEC53（RVV） 3×1.0mm² 10A250V",
+						"RX 300/300V 3×0.75mm² 6A250V",
+						"RX 300/300V 3×1.0mm² 10A250V"]
+		}
+	],
+
+	"line": [
+		"/imgs/ac_power/china_ac_power/line/1.jpg",
+		"/imgs/ac_power/china_ac_power/line/2.jpg",
+		"/imgs/ac_power/china_ac_power/line/3.jpg",
+		"/imgs/ac_power/china_ac_power/line/4.jpg",
+		"/imgs/ac_power/china_ac_power/line/5.jpg",
+		"/imgs/ac_power/china_ac_power/line/6.jpg",
+		"/imgs/ac_power/china_ac_power/line/7.jpg",
+		"/imgs/ac_power/china_ac_power/line/8.jpg",
+		"/imgs/ac_power/china_ac_power/line/9.jpg",
+		"/imgs/ac_power/china_ac_power/line/10.jpg",
+		"/imgs/ac_power/china_ac_power/line/11.jpg",
+		"/imgs/ac_power/china_ac_power/line/12.jpg"]
+},
+{
+	"id":"01",
+	"name":"europe_ac_power",
+
+	"europe_ac_power_imgs": [
+		"/imgs/ac_power/europe_ac_power/picture/Europepowercord-1-picture.png",
+		"/imgs/ac_power/europe_ac_power/picture/Europepowercord-2-picture.png",
+		"/imgs/ac_power/europe_ac_power/picture/Europepowercord-3-picture.png",
+		"/imgs/ac_power/europe_ac_power/picture/Europepowercord-4-picture.png",
+		"/imgs/ac_power/europe_ac_power/picture/Europepowercord-5-picture.png",
+		"/imgs/ac_power/europe_ac_power/picture/Europepowercord-6-picture.png"],
+
+	"products": [{
+		"imgurl": "/imgs/ac_power/europe_ac_power/model/model1.jpg",
+		"description": ["H03VVH2 –F    2X0.5mm²    10/16A250V",
+						"H03VVH2 -F    2X0.75mm²   10/16A250V",
+						"H03VV   -F    2X0.5mm²    10/16A250V",
+						"H03VV   -F    2X0.75mm²   10/16A250V",
+						"H05VVH2 -F    2X0.75mm²   10/16A250V",
+						"H05VVH2 -F    2X1.0mm²    10/16A250V",
+						"H05VV   -F    2X0.75mm²   10/16A250V",
+						"H05VV   -F    2X1.0mm²    10/16A250V"]
+		},
+		{
+		"imgurl": "/imgs/ac_power/europe_ac_power/model/model2.jpg",
+		"description": [
+						"H03VVH2 -F    2X0.5mm²   2.5A250V",
+						"H03VVH2 -F    2X0.75mm²  2.5A250V",
+						"H03VV   -F    2X0.5mm²   2.5A250V",
+						"H03VV   -F    2X0.75mm²  2.5A250V",
+						"H05VVH2 -F    2X0.75mm²  10A250V",
+						"H05VVH2 -F    2X1.0mm²   10A250V",
+						"H05VV   -F    2X0.75mm²  10A250V",
+						"H05VV   -F    2X1.0mm²   10A250V"]
+		},
+		{
+		"imgurl": "/imgs/ac_power/europe_ac_power/model/model3.jpg",
+		"description": ["227IEC42(RVB)   2×0.5mm²    6A250V",
+						"227IEC42(RVB)    2×0.75mm²   6A250V",
+						"227IEC52(RVV)    2×0.5mm²    6A250V",
+						"227IEC52(RVV)    2×0.75mm²   6A250V"]
+		},
+		{
+		"imgurl": "/imgs/ac_power/europe_ac_power/model/model4.jpg",
+		"description": ["H03VVH2 -F    2X0.5mm²   2.5A250V",
+						"H03VVH2 -F    2X0.75mm²  2.5A250V",
+						"H03VV   -F    2X0.5mm²   2.5A250V",
+						"H03VV   -F    2X0.75mm²  2.5A250V",
+						"H05VVH2 -F    2X0.75mm²  10A250V",
+						"H05VVH2 -F    2X1.0mm²   10A250V",
+						"H05VV   -F    2X0.75mm²  10A250V",
+						"H05VV   -F    2X1.0mm²   10A250V"]
+		},
+		{
+		"imgurl": "/imgs/ac_power/europe_ac_power/model/model5.jpg",
+		"description": ["H03VV -F    3G0.5mm²    10/16A250V",
+						"H03VV -F    3G0.75mm²   10/16A250V",
+						"H05VV -F    3G0.75mm²   10/16A250V",
+						"H05VV -F    3G1.0mm²    10/16A250V",
+						"H05VV -F    3G1.5mm²    10/16A250V"]
+		},
+		{
+		"imgurl": "/imgs/ac_power/europe_ac_power/model/model6.jpg",
+		"description": ["H03VV -F   3G0.5mm²   10/16A250V",
+						"H03VV -F  3G0.75mm²  10/16A250V",
+						"H05VV -F  3G0.75mm²  10/16A250V",
+						"H05VV -F  3G1.0mm²   10/16A250V",
+						"H05VV -F  3G1.5mm²   10/16A250V"]
+		}
+	],
+	"line": [
+		"/imgs/ac_power/europe_ac_power/line/1.jpg",
+		"/imgs/ac_power/europe_ac_power/line/2.jpg",
+		"/imgs/ac_power/europe_ac_power/line/3.jpg",
+		"/imgs/ac_power/europe_ac_power/line/4.jpg",
+		"/imgs/ac_power/europe_ac_power/line/5.jpg"]
+},
+{
+	"id":"02",
+	"name":"italy_ac_power",
+
+	"italy_ac_power_imgs": [
+		"/imgs/ac_power/italy_ac_power/picture/Italypowercord-1-picture.png"],
+
+	"products": [{
+		"imgurl": "/imgs/ac_power/italy_ac_power/model/model1.jpg",
+		"description": [
+						"H03VV -F  3G0.5mm²    10A250V",
+						"H03VV -F  3G0.75mm²   10A250V",
+						"H05VV -F  3G0.75mm²   10A250V",
+						"H05VV -F  3G1.0mm²    10A250V"]
+		}],
+	"line": []
+},
+{
+	"id":"03",
+	"name":"brazil_ac_power",
+
+	"brazil_ac_power_imgs": [
+		"/imgs/ac_power/brazil_ac_power/picture/Brazilpowercord-1-picture.png"],
+
+	"products": [{
+		"imgurl": "/imgs/ac_power/brazil_ac_power/model/model1.jpg",
+		"description": [
+						"H03VV -F 3G0.5mm²  10A250V",
+						"H03VV -F 3G0.75mm² 10A250V",
+						"H05VV -F 3G0.75mm² 10A250V",
+						"H05VV -F 3G1.0mm²  10A250V"]
+		},
+		{
+		"imgurl": "/imgs/ac_power/brazil_ac_power/model/model2.jpg",
+		"description": [
+						"227IEC52(RVV)  3X0.75mm² 10A250V",
+						"227IEC53(RVV)  3X0.75mm² 10A250V",
+						"227IEC53(RVV)  3X1.0mm²  10A250V",
+						"H03VV -F   3G0.75mm² 6A250V",
+						"H05VV -F   3G0.75mm² 10A250V",
+						"H05VV -F   3G0.75mm² 10A250V"]
+		},
+		{
+		"imgurl": "/imgs/ac_power/brazil_ac_power/model/model3.jpg",
+		"description": [
+						"227IEC52(RVV)  3X0.75mm² 10A250V",
+						"227IEC53(RVV)  3X0.75mm² 10A250V",
+						"227IEC53(RVV)  3X1.0mm²  10A250V",
+						"H03VV -F   3G0.75mm² 6A250V",
+						"H05VV -F   3G0.75mm² 10A250V",
+						"H05VV -F   3G1.0mm²  10A250V"]
+		}],
+	"line": []
+},
+{
+	"id":"04",
+	"name":"usa_ac_power",
+
+	"usa_ac_power_imgs": [
+		"/imgs/ac_power/usa_ac_power/picture/Usapowercord-1-picture.png",
+		"/imgs/ac_power/usa_ac_power/picture/Usapowercord-2-picture.png",
+		"/imgs/ac_power/usa_ac_power/picture/Usapowercord-3-picture.png",
+		"/imgs/ac_power/usa_ac_power/picture/Usapowercord-4-picture.png",
+		"/imgs/ac_power/usa_ac_power/picture/Usapowercord-5-picture.png",
+		"/imgs/ac_power/usa_ac_power/picture/Usapowercord-6-picture.png"],
+
+	"products": [{
+		"imgurl": "/imgs/ac_power/usa_ac_power/model/model1.jpg",
+		"description": ["SPT-1   18AWG/2C",
+						"SPT-2/SPT-2-R  18AWG/2C",
+						"SPT-2      16AWG/2C",
+						"SPT-3      18AWG/2C",
+						"SPT-3      16AWG/2C",
+						"SVT      18AWG/2C",
+						"SVT      17AWG/2C"]
+		},
+		{
+		"imgurl": "/imgs/ac_power/usa_ac_power/model/model2.jpg",
+		"description": ["NISPT-1  18AWG/2C",
+						"SPT-2-R    18AWG/2C",
+						"NISPT-2  18AWG/2C"]
+		},
+		{
+		"imgurl": "/imgs/ac_power/usa_ac_power/model/model3.jpg",
+		"description": ["SVT    18AWG/2C",
+						"SVT    17AWG/2C",
+						"ST     18AWG/2C",
+						"ST     16AWG/2C",
+						"SJT    18AWG/2C",
+						"SJT    16AWG/2C",
+						"NISPT-1  18AWG/2C",
+						"NISPT-2  18AWG/2C"]
+		},
+		{
+		"imgurl": "/imgs/ac_power/usa_ac_power/model/model4.jpg",
+		"description": ["SVT  18AWG/2C",
+						"SVT  17AWG/2C",
+						"ST   18AWG/2C",
+						"ST   16AWG/2C"]
+		},
+		{
+		"imgurl": "/imgs/ac_power/usa_ac_power/model/model5.jpg",
+		"description": ["SPT-1  18AWG/3C",
+						"SPT-2  18AWG-16AWG/3C",
+						"SPT-3  18AWG-16AWG/3C",
+						"SVT  18AWG-17AWG/3C",
+						"ST   18AWG-16AWG/3C",
+						"SJT  18AWG-16AWG/3C"]
+		},
+		{
+		"imgurl": "/imgs/ac_power/usa_ac_power/model/model6.jpg",
+		"description": ["SVT  18AWG/3C",
+						"SVT  17AWG/3C",
+						"ST   18AWG/3C",
+						"ST   16AWG/3C",
+						"SJT  16AWG/3C",
+						"SJT  18AWG/3C"]
+		}],
+	"line": [
+		"/imgs/ac_power/usa_ac_power/line/1.jpg",
+		"/imgs/ac_power/usa_ac_power/line/2.jpg",
+		"/imgs/ac_power/usa_ac_power/line/3.jpg",
+		"/imgs/ac_power/usa_ac_power/line/4.jpg",
+		"/imgs/ac_power/usa_ac_power/line/5.jpg",
+		"/imgs/ac_power/usa_ac_power/line/6.jpg"]
+},
+{
+	"id":"05",
+	"name":"japan_ac_power",
+
+	"japan_ac_power_imgs": [
+		"/imgs/ac_power/japan_ac_power/picture/Japanpowercord-1-picture.png"],
+
+	"products": [{
+		"imgurl": "/imgs/ac_power/japan_ac_power/model/model1.jpg",
+		"description": [
+						"VFF    2X0.75mm² 7A125V",
+						"VCTF   2X0.75mm² 7A125V",
+						"VCTFK  2X0.75mm² 7A125V"]
+		}],
+	"line": [
+		"/imgs/ac_power/japan_ac_power/line/1.jpg",
+		"/imgs/ac_power/japan_ac_power/line/2.jpg",
+		"/imgs/ac_power/japan_ac_power/line/3.jpg",
+		"/imgs/ac_power/japan_ac_power/line/4.jpg",
+		"/imgs/ac_power/japan_ac_power/line/5.jpg"]
+},
+{
+	"id":"06",
+	"name":"isu_ac_power",
+
+	"isu_ac_power_imgs": [
+		"/imgs/ac_power/isu_ac_power/picture/ISUpowercord-1-picture.png",
+		"/imgs/ac_power/isu_ac_power/picture/ISUpowercord-2-picture.png",
+		"/imgs/ac_power/isu_ac_power/picture/ISUpowercord-3-picture.png"],
+
+	"products": [{
+		"imgurl": "/imgs/ac_power/isu_ac_power/model/model1.jpg",
+		"description": ["H03VV -F  3G0.75mm²",
+						"H05VV -F  3G0.75mm²",
+						"H05VV -F  3G1.0mm²",
+						"H05VV -F  3G1.5mm²"]
+		},
+		{
+		"imgurl": "/imgs/ac_power/isu_ac_power/model/model2.jpg",
+		"description": ["H03VV -F  3G0.75mm²",
+						"H05VV -F  3G0.75mm²",
+						"H05VV -F  3G1.0mm²",
+						"H05VV -F  3G1.5mm²"]
+		},
+		{
+		"imgurl": "/imgs/ac_power/isu_ac_power/model/model3.jpg",
+		"description": [
+						"H03VV-F  3G0.5mm²",
+						"H03VV-F  3G0.75mm²",
+						"H05VV-F  3G0.75mm²",
+						"H05VV-F  3G1.0mm²",
+						"H05VV-F  3G1.5mm²"]
+		}],
+	"line": []
+},
+{
+	"id":"07",
+	"name":"australia_ac_power",
+
+	"australia_ac_power_imgs": ["/imgs/ac_power/australia_ac_power/picture/Australiapowercord-1-picture.png"],
+
+	"products": [{
+		"imgurl": "",
+		"description": [""]
+		}],
+	"line": [
+		"/imgs/ac_power/australia_ac_power/line/1.jpg",
+		"/imgs/ac_power/australia_ac_power/line/1.jpg",
+		"/imgs/ac_power/australia_ac_power/line/1.jpg"]
+},
+{
+	"id":"08",
+	"name":"C13-C14_power_cord",
+
+	"C13-C14_ac_power_imgs": ["/imgs/ac_power/C13-C14_power_cord/picture/C13-C14powercord-1-picture.png",
+							  "/imgs/ac_power/C13-C14_power_cord/picture/C13-C14powercord-2-picture.png",
+							  "/imgs/ac_power/C13-C14_power_cord/picture/C13-C14powercord-3-picture.png"],
+
+	"products": [{
+		"imgurl": "",
+		"description": [""]
+		}],
+	"line": [
+		"/imgs/ac_power/australia_ac_power/line/1.jpg",
+		"/imgs/ac_power/australia_ac_power/line/1.jpg",
+		"/imgs/ac_power/australia_ac_power/line/1.jpg"]
+},
+{
+	"id":"09",
+	"name":"C5-C14_power_cord",
+
+	"C5-C14_ac_power_imgs": ["/imgs/ac_power/C5-C14_power_cord/picture/C5-C14powercord-1-picture.png"],
+
+	"products": [{
+		"imgurl": "",
+		"description": [""]
+		}],
+	"line": [
+		"/imgs/ac_power/australia_ac_power/line/1.jpg",
+		"/imgs/ac_power/australia_ac_power/line/1.jpg",
+		"/imgs/ac_power/australia_ac_power/line/1.jpg"]
+}
+]
