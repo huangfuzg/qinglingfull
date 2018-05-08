@@ -1,0 +1,596 @@
+[
+	{
+		"id":"00",
+		"name":"Chian power cord",
+		"plugs":[
+			{
+				"drawing":"Chinapowercord-1-drawing.png",
+				"picture":"Chinapowercord-1-picture.png",
+				"cabels":[
+					"227IEC42(RVB)2×0.5mm²   6A250V",
+					"227IEC42(RVB)2×0.75mm²  6A250V",
+					"227IEC52(RVV)2×0.5mm²   6A250V",
+					"227IEC52(RVV)2×0.75mm²  6A250V"
+				]
+			},
+			{
+				"drawing":"Chinapowercord-2-drawing.png",
+				"picture":"",
+				"cabels":[
+					"227IEC52(RVV) 2×0.75mm² 6A250V",
+					"227IEC53(RVV) 2×0.75mm² 6A250V",
+					"227IEC53(RVV) 2×1.0mm²  10A250V",
+					"227IEC42(RVB)2×0.5mm²   6A250V",
+					"227IEC42(RVB)2×0.75mm²  6A250V",
+					"227IEC52(RVV)2×0.5mm²   6A250V",
+					"227IEC52(RVV)2×0.75mm²  6A250V"
+				]
+			},
+			{
+				"drawing":"Chinapowercord-3-drawing.png",
+				"picture":"Chinapowercord-3-picture.png",
+				"cabels":[
+					"227IEC52（RVV）3×0.5mm²   6A250V",
+					"227IEC52（RVV）3×0.75mm²  6A250V",
+					"227IEC53（RVV）3×0.75mm²  6A250V",
+					"227IEC53（RVV）3×1.0mm²   10A250V"
+				]
+			},
+			{
+				"drawing":"Chinapowercord-4-drawing.png",
+				"picture":"",
+				"cabels":[
+					"227IEC52（RVV）3×0.5mm²   6A250V",
+					"227IEC52（RVV）3×0.75mm²  6A250V",
+					"227IEC53（RVV）3×0.75mm²  6A250V",
+					"227IEC53（RVV）3×1.0mm²   10A250V"
+				]
+			},
+			{
+				"drawing":"Chinapowercord-5-drawing.png",
+				"picture":"",
+				"cabels":[
+					"227IEC52（RVV）3×0.5mm²   6A250V",
+					"227IEC52（RVV）3×0.75mm²  6A250V",
+					"227IEC53（RVV）3×0.75mm²  6A250V",
+					"227IEC53（RVV）3×1.0mm²   10A250V",
+					"RX 300/300V    3×0.75mm²  6A250V",
+					"RX 300/300V    3×1.0mm²   10A250V"
+				]
+			}
+		],
+		"cable":[{
+			"name":"cable",
+			"standard":"GB5023.3-1997",
+			"model":["227 IEC 02(RV)","227 IEC 08(RV-90)"],
+			"currentVoltage":["227 IEC 02(RV)    450/750V","227 IEC 08(RV-90) 300/500V"],
+			"application":["02 housing electrical products and instruments","08 electrical appliance connection"],
+			"modelParams":[
+				{
+					"name":"227 IEC 02(RV)",
+					"img":["227-IEC-02(RV).png"],
+					"others":[{
+						"core":"",
+						"AWG":"",
+						"section(mm²)":"1.5",
+						"structure(No./mm)":"48/0.2",
+						"Insulation thickness(mm)":"0.7",
+						"Jacket thickness(mm)":"",
+						"OD(mm)":"3.0"
+					},
+					{
+						"core":"",
+						"AWG":"",
+						"section(mm²)":"2.5",
+						"structure(No./mm)":"80/0.2",
+						"Insulation thickness(mm)":"0.8",
+						"Jacket thickness(mm)":"",
+						"OD(mm)":"3.65"
+					}]
+				},
+				{
+					"name":"227 IEC 08(RV-90)",
+					"img":["227-IEC-08(RV-90).png"],
+					"others":[{
+						"core":"",
+						"AWG":"",
+						"section(mm²)":"0.75",
+						"structure(No./mm)":"42/0.15",
+						"Insulation thickness(mm)":"0.6",
+						"Jacket thickness(mm)":"",
+						"OD(mm)":"2.6"
+					},
+					{
+						"core":"",
+						"AWG":"",
+						"section(mm²)":"1.0",
+						"structure(No./mm)":"32/0.2",
+						"Insulation thickness(mm)":"0.6",
+						"Jacket thickness(mm)":"",
+						"OD(mm)":"2.8"
+					},
+					{
+						"core":"",
+						"AWG":"",
+						"section(mm²)":"1.5",
+						"structure(No./mm)":"48/0.2",
+						"Insulation thickness(mm)":"0.7",
+						"Jacket thickness(mm)":"",
+						"OD(mm)":"3.05"
+					},
+					{
+						"core":"",
+						"AWG":"",
+						"section(mm²)":"2.5",
+						"structure(No./mm)":"80/0.2",
+						"Insulation thickness(mm)":"0.8",
+						"Jacket thickness(mm)":"",
+						"OD(mm)":"3.7"
+					}]
+				}
+			]
+		},
+		{
+			"name":"Flat soft cable",
+			"standard":"GB5023.5-1997",
+			"model":["227 IE C42(RVB)"],
+			"currentVoltage":["300/300V"],
+			"application":["Small housing electrical instruments and light"],
+			"modelParams":[
+				{
+					"name":"227 IEC 42(RVB)",
+					"img":["227-IEC-42(RVB).png"],
+					"others":[{
+						"core":"2",
+						"AWG":"",
+						"section(mm²)":"0.5",
+						"structure(No./mm)":"28/0.15",
+						"Insulation thickness(mm)":"0.8",
+						"Jacket thickness(mm)":"",
+						"OD(mm)":"2.7X5.4"
+					},
+					{
+						"core":"2",
+						"AWG":"",
+						"section(mm²)":"0.75",
+						"structure(No./mm)":"42/0.15",
+						"Insulation thickness(mm)":"0.8",
+						"Jacket thickness(mm)":"",
+						"OD(mm)":"2.9X5.8"
+					}]
+				}]
+			},
+			{
+			"name":"Soft jacket cable",
+			"standard":"GB5023.5-1997",
+			"model":["227 IEC 52(RVV)","227 IEC 53(RVV)"],
+			"currentVoltage":["227 IEC 52(RVV)300/300V","227 IEC 53(RVV)300/500V"],
+			"application":["227 IEC 52(RVV) housing electrical instruments and light","227 IEC 53(RVV) electrical instruments and light"],
+			"modelParams":[
+				{
+					"name":"227 IEC 52(RVV)",
+					"img":["227-IEC-52(RVV)-flat.png","227-IEC-52(RVV)-round1.png","227-IEC-52(RVV)-round2.png"],
+					"others":[{
+						"core":"2",
+						"AWG":"",
+						"section(mm²)":"0.5",
+						"structure(No./mm)":"28/0.15",
+						"Insulation thickness(mm)":"0.5",
+						"Jacket thickness(mm)":"0.6",
+						"OD(mm)":"5.3"
+					},
+					{
+						"core":"2",
+						"AWG":"",
+						"section(mm²)":"0.5",
+						"structure(No./mm)":"28/0.15",
+						"Insulation thickness(mm)":"0.5",
+						"Jacket thickness(mm)":"0.6",
+						"OD(mm)":"3.26X5.3"
+					},
+					{
+						"core":"2",
+						"AWG":"",
+						"section(mm²)":"0.75",
+						"structure(No./mm)":"42/0.15",
+						"Insulation thickness(mm)":"0.5",
+						"Jacket thickness(mm)":"0.6",
+						"OD(mm)":"5.7"
+					},
+					{
+						"core":"2",
+						"AWG":"",
+						"section(mm²)":"0.75",
+						"structure(No./mm)":"42/0.15",
+						"Insulation thickness(mm)":"0.5",
+						"Jacket thickness(mm)":"0.6",
+						"OD(mm)":"3.4X5.8"
+					},
+					{
+						"core":"3",
+						"AWG":"",
+						"section(mm²)":"0.5",
+						"structure(No./mm)":"28/0.15",
+						"Insulation thickness(mm)":"0.5",
+						"Jacket thickness(mm)":"0.6",
+						"OD(mm)":"5.6"
+					},
+					{
+						"core":"3",
+						"AWG":"",
+						"section(mm²)":"0.75",
+						"structure(No./mm)":"42/0.15",
+						"Insulation thickness(mm)":"0.5",
+						"Jacket thickness(mm)":"0.6",
+						"OD(mm)":"6.05"
+					}]
+				},
+				{
+					"name":"227 IEC 53(RVV)",
+					"img":["227-IEC-53(RVV)-flat.png","227-IEC-53(RVV)-round1.png","227-IEC-53(RVV)-round2.png"],
+					"others":[{
+						"core":"2",
+						"AWG":"",
+						"section(mm²)":"0.75",
+						"structure(No./mm)":"42/0.15",
+						"Insulation thickness(mm)":"0.6",
+						"Jacket thickness(mm)":"0.8",
+						"OD(mm)":"6.5"
+					},
+					{
+						"core":"2",
+						"AWG":"",
+						"section(mm²)":"0.75",
+						"structure(No./mm)":"42/0.15",
+						"Insulation thickness(mm)":"0.6",
+						"Jacket thickness(mm)":"0.8",
+						"OD(mm)":"4.1X6.5"
+					},
+					{
+						"core":"2",
+						"AWG":"",
+						"section(mm²)":"1.0",
+						"structure(No./mm)":"32/0.2",
+						"Insulation thickness(mm)":"0.6",
+						"Jacket thickness(mm)":"0.8",
+						"OD(mm)":"6.9"
+					},
+					{
+						"core":"2",
+						"AWG":"",
+						"section(mm²)":"1.5",
+						"structure(No./mm)":"48/0.15",
+						"Insulation thickness(mm)":"0.7",
+						"Jacket thickness(mm)":"0.8",
+						"OD(mm)":"7.7"
+					},
+					{
+						"core":"3",
+						"AWG":"",
+						"section(mm²)":"0.75",
+						"structure(No./mm)":"42/0.15",
+						"Insulation thickness(mm)":"0.6",
+						"Jacket thickness(mm)":"0.8",
+						"OD(mm)":"6.9"
+					},
+					{
+						"core":"3",
+						"AWG":"",
+						"section(mm²)":"1.0",
+						"structure(No./mm)":"32/0.15",
+						"Insulation thickness(mm)":"0.6",
+						"Jacket thickness(mm)":"0.8",
+						"OD(mm)":"7.4"
+					},
+					{
+						"core":"3",
+						"AWG":"",
+						"section(mm²)":"1.5",
+						"structure(No./mm)":"48/0.15",
+						"Insulation thickness(mm)":"0.7",
+						"Jacket thickness(mm)":"0.9",
+						"OD(mm)":"8.5"
+					}]
+				}]
+			}
+			]
+	
+	},
+	{	
+		"id":"01",
+		"name":"Chian power cord",
+		"plugs":[
+			{
+				"drawing":"Chinapowercord-1-drawing.png",
+				"picture":"Chinapowercord-1-picture.png",
+				"cabels":[
+					"227IEC42(RVB)2×0.5mm²   6A250V",
+					"227IEC42(RVB)2×0.75mm²  6A250V",
+					"227IEC52(RVV)2×0.5mm²   6A250V",
+					"227IEC52(RVV)2×0.75mm²  6A250V"
+				]
+			},
+			{
+				"drawing":"Chinapowercord-2-drawing.png",
+				"picture":"",
+				"cabels":[
+					"227IEC52(RVV) 2×0.75mm² 6A250V",
+					"227IEC53(RVV) 2×0.75mm² 6A250V",
+					"227IEC53(RVV) 2×1.0mm²  10A250V",
+					"227IEC42(RVB)2×0.5mm²   6A250V",
+					"227IEC42(RVB)2×0.75mm²  6A250V",
+					"227IEC52(RVV)2×0.5mm²   6A250V",
+					"227IEC52(RVV)2×0.75mm²  6A250V"
+				]
+			},
+			{
+				"drawing":"Chinapowercord-3-drawing.png",
+				"picture":"Chinapowercord-3-picture.png",
+				"cabels":[
+					"227IEC52（RVV）3×0.5mm²   6A250V",
+					"227IEC52（RVV）3×0.75mm²  6A250V",
+					"227IEC53（RVV）3×0.75mm²  6A250V",
+					"227IEC53（RVV）3×1.0mm²   10A250V"
+				]
+			},
+			{
+				"drawing":"Chinapowercord-4-drawing.png",
+				"picture":"",
+				"cabels":[
+					"227IEC52（RVV）3×0.5mm²   6A250V",
+					"227IEC52（RVV）3×0.75mm²  6A250V",
+					"227IEC53（RVV）3×0.75mm²  6A250V",
+					"227IEC53（RVV）3×1.0mm²   10A250V"
+				]
+			},
+			{
+				"drawing":"Chinapowercord-5-drawing.png",
+				"picture":"",
+				"cabels":[
+					"227IEC52（RVV）3×0.5mm²   6A250V",
+					"227IEC52（RVV）3×0.75mm²  6A250V",
+					"227IEC53（RVV）3×0.75mm²  6A250V",
+					"227IEC53（RVV）3×1.0mm²   10A250V",
+					"RX 300/300V    3×0.75mm²  6A250V",
+					"RX 300/300V    3×1.0mm²   10A250V"
+				]
+			}
+		],
+		"cable":[{
+			"name":"cable",
+			"standard":"GB5023.3-1997",
+			"model":["227 IEC 02(RV)","227 IEC 08(RV-90)"],
+			"currentVoltage":["227 IEC 02(RV)    450/750V","227 IEC 08(RV-90) 300/500V"],
+			"application":["02 housing electrical products and instruments","08 electrical appliance connection"],
+			"modelParams":[
+				{
+					"name":"227 IEC 02(RV)",
+					"img":["227-IEC-02(RV).png"],
+					"others":[{
+						"core":"",
+						"AWG":"",
+						"section(mm²)":"1.5",
+						"structure(No./mm)":"48/0.2",
+						"Insulation thickness(mm)":"0.7",
+						"Jacket thickness(mm)":"",
+						"OD(mm)":"3.0"
+					},
+					{
+						"core":"",
+						"AWG":"",
+						"section(mm²)":"2.5",
+						"structure(No./mm)":"80/0.2",
+						"Insulation thickness(mm)":"0.8",
+						"Jacket thickness(mm)":"",
+						"OD(mm)":"3.65"
+					}]
+				},
+				{
+					"name":"227 IEC 08(RV-90)",
+					"img":["227-IEC-08(RV-90).png"],
+					"others":[{
+						"core":"",
+						"AWG":"",
+						"section(mm²)":"0.75",
+						"structure(No./mm)":"42/0.15",
+						"Insulation thickness(mm)":"0.6",
+						"Jacket thickness(mm)":"",
+						"OD(mm)":"2.6"
+					},
+					{
+						"core":"",
+						"AWG":"",
+						"section(mm²)":"1.0",
+						"structure(No./mm)":"32/0.2",
+						"Insulation thickness(mm)":"0.6",
+						"Jacket thickness(mm)":"",
+						"OD(mm)":"2.8"
+					},
+					{
+						"core":"",
+						"AWG":"",
+						"section(mm²)":"1.5",
+						"structure(No./mm)":"48/0.2",
+						"Insulation thickness(mm)":"0.7",
+						"Jacket thickness(mm)":"",
+						"OD(mm)":"3.05"
+					},
+					{
+						"core":"",
+						"AWG":"",
+						"section(mm²)":"2.5",
+						"structure(No./mm)":"80/0.2",
+						"Insulation thickness(mm)":"0.8",
+						"Jacket thickness(mm)":"",
+						"OD(mm)":"3.7"
+					}]
+				}
+			]
+		},
+		{
+			"name":"Flat soft cable",
+			"standard":"GB5023.5-1997",
+			"model":["227 IE C42(RVB)"],
+			"currentVoltage":["300/300V"],
+			"application":["Small housing electrical instruments and light"],
+			"modelParams":[
+				{
+					"name":"227 IEC 42(RVB)",
+					"img":["227-IEC-42(RVB).png"],
+					"others":[{
+						"core":"2",
+						"AWG":"",
+						"section(mm²)":"0.5",
+						"structure(No./mm)":"28/0.15",
+						"Insulation thickness(mm)":"0.8",
+						"Jacket thickness(mm)":"",
+						"OD(mm)":"2.7X5.4"
+					},
+					{
+						"core":"2",
+						"AWG":"",
+						"section(mm²)":"0.75",
+						"structure(No./mm)":"42/0.15",
+						"Insulation thickness(mm)":"0.8",
+						"Jacket thickness(mm)":"",
+						"OD(mm)":"2.9X5.8"
+					}]
+				}]
+			},
+			{
+			"name":"Soft jacket cable",
+			"standard":"GB5023.5-1997",
+			"model":["227 IEC 52(RVV)","227 IEC 53(RVV)"],
+			"currentVoltage":["227 IEC 52(RVV)300/300V","227 IEC 53(RVV)300/500V"],
+			"application":["227 IEC 52(RVV) housing electrical instruments and light","227 IEC 53(RVV) electrical instruments and light"],
+			"modelParams":[
+				{
+					"name":"227 IEC 52(RVV)",
+					"img":["227-IEC-52(RVV)-flat.png","227-IEC-52(RVV)-round1.png","227-IEC-52(RVV)-round2.png"],
+					"others":[{
+						"core":"2",
+						"AWG":"",
+						"section(mm²)":"0.5",
+						"structure(No./mm)":"28/0.15",
+						"Insulation thickness(mm)":"0.5",
+						"Jacket thickness(mm)":"0.6",
+						"OD(mm)":"5.3"
+					},
+					{
+						"core":"2",
+						"AWG":"",
+						"section(mm²)":"0.5",
+						"structure(No./mm)":"28/0.15",
+						"Insulation thickness(mm)":"0.5",
+						"Jacket thickness(mm)":"0.6",
+						"OD(mm)":"3.26X5.3"
+					},
+					{
+						"core":"2",
+						"AWG":"",
+						"section(mm²)":"0.75",
+						"structure(No./mm)":"42/0.15",
+						"Insulation thickness(mm)":"0.5",
+						"Jacket thickness(mm)":"0.6",
+						"OD(mm)":"5.7"
+					},
+					{
+						"core":"2",
+						"AWG":"",
+						"section(mm²)":"0.75",
+						"structure(No./mm)":"42/0.15",
+						"Insulation thickness(mm)":"0.5",
+						"Jacket thickness(mm)":"0.6",
+						"OD(mm)":"3.4X5.8"
+					},
+					{
+						"core":"3",
+						"AWG":"",
+						"section(mm²)":"0.5",
+						"structure(No./mm)":"28/0.15",
+						"Insulation thickness(mm)":"0.5",
+						"Jacket thickness(mm)":"0.6",
+						"OD(mm)":"5.6"
+					},
+					{
+						"core":"3",
+						"AWG":"",
+						"section(mm²)":"0.75",
+						"structure(No./mm)":"42/0.15",
+						"Insulation thickness(mm)":"0.5",
+						"Jacket thickness(mm)":"0.6",
+						"OD(mm)":"6.05"
+					}]
+				},
+				{
+					"name":"227 IEC 53(RVV)",
+					"img":["227-IEC-53(RVV)-flat.png","227-IEC-53(RVV)-round1.png","227-IEC-53(RVV)-round2.png"],
+					"others":[{
+						"core":"2",
+						"AWG":"",
+						"section(mm²)":"0.75",
+						"structure(No./mm)":"42/0.15",
+						"Insulation thickness(mm)":"0.6",
+						"Jacket thickness(mm)":"0.8",
+						"OD(mm)":"6.5"
+					},
+					{
+						"core":"2",
+						"AWG":"",
+						"section(mm²)":"0.75",
+						"structure(No./mm)":"42/0.15",
+						"Insulation thickness(mm)":"0.6",
+						"Jacket thickness(mm)":"0.8",
+						"OD(mm)":"4.1X6.5"
+					},
+					{
+						"core":"2",
+						"AWG":"",
+						"section(mm²)":"1.0",
+						"structure(No./mm)":"32/0.2",
+						"Insulation thickness(mm)":"0.6",
+						"Jacket thickness(mm)":"0.8",
+						"OD(mm)":"6.9"
+					},
+					{
+						"core":"2",
+						"AWG":"",
+						"section(mm²)":"1.5",
+						"structure(No./mm)":"48/0.15",
+						"Insulation thickness(mm)":"0.7",
+						"Jacket thickness(mm)":"0.8",
+						"OD(mm)":"7.7"
+					},
+					{
+						"core":"3",
+						"AWG":"",
+						"section(mm²)":"0.75",
+						"structure(No./mm)":"42/0.15",
+						"Insulation thickness(mm)":"0.6",
+						"Jacket thickness(mm)":"0.8",
+						"OD(mm)":"6.9"
+					},
+					{
+						"core":"3",
+						"AWG":"",
+						"section(mm²)":"1.0",
+						"structure(No./mm)":"32/0.15",
+						"Insulation thickness(mm)":"0.6",
+						"Jacket thickness(mm)":"0.8",
+						"OD(mm)":"7.4"
+					},
+					{
+						"core":"3",
+						"AWG":"",
+						"section(mm²)":"1.5",
+						"structure(No./mm)":"48/0.15",
+						"Insulation thickness(mm)":"0.7",
+						"Jacket thickness(mm)":"0.9",
+						"OD(mm)":"8.5"
+					}]
+				}]
+			}
+			]
+	
+	}
+]

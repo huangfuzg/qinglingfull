@@ -1,0 +1,54 @@
+[{
+	"id":"00",
+	"name":"EU Salt Lamp power cord",
+
+	"imgurl": [
+		"/imgs/slpc/europe_slpc/imgs/1.jpg",
+		"/imgs/slpc/europe_slpc/imgs/2.jpg",
+		"/imgs/slpc/europe_slpc/imgs/3.jpg",
+		"/imgs/slpc/europe_slpc/imgs/4.jpg"],
+
+	"parameter": ["/imgs/slpc/europe_slpc/parameter/1.jpg"]
+},
+{
+	"id":"01",
+	"name":"USA Salt Lamp power cord",
+
+	"imgurl": [
+		"/imgs/slpc/usa_slpc/imgs/1.jpg",
+		"/imgs/slpc/usa_slpc/imgs/2.jpg",
+		"/imgs/slpc/usa_slpc/imgs/3.jpg",
+		"/imgs/slpc/usa_slpc/imgs/4.jpg",
+		"/imgs/slpc/usa_slpc/imgs/5.jpg"],
+
+	"parameter": ["/imgs/slpc/usa_slpc/parameter/1.jpg"]
+},
+{
+	"id":"02",
+	"name":"UK Salt Lamp power cord",
+
+	"imgurl": [
+		"/imgs/slpc/uk_slpc/imgs/1.jpg",
+		"/imgs/slpc/uk_slpc/imgs/2.jpg"],
+
+	"parameter": ["/imgs/slpc/uk_slpc/parameter/1.jpg"]
+},
+{
+	"id":"03",
+	"name":"AUS Salt Lamp power cord",
+
+	"imgurl": [
+		"/imgs/slpc/australia_slpc/imgs/1.jpg"],
+
+	"parameter": ["/imgs/slpc/australia_slpc/parameter/1.jpg"]
+},
+{
+	"id":"04",
+	"name":"Korea Salt Lamp power cord",
+
+	"imgurl": [
+		"/imgs/slpc/korea_slpc/imgs/1.jpg"],
+
+	"parameter": ["/imgs/slpc/korea_slpc/parameter/1.jpg"]
+}
+]

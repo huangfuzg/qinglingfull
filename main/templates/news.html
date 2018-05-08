@@ -9,28 +9,28 @@
   <meta content="" name="description">
 
   <!-- Favicons -->
-  <link href="img/icon.png" rel="icon">
+  <link href="static/img/icon.png" rel="icon">
   <link href="img/apple-touch-icon.png" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Montserrat:300,400,500,700" rel="stylesheet">
 
   <!-- Bootstrap CSS File -->
-  <link href="lib/bootstrap/css/bootstrap1.min.css" rel="stylesheet">
+  <link href="static/lib/bootstrap/css/bootstrap1.min.css" rel="stylesheet">
   <!-- <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet"> -->
 
   <!-- Libraries CSS Files -->
-  <link href="lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-  <link href="lib/animate/animate.min.css" rel="stylesheet">
-  <link href="lib/ionicons/css/ionicons.min.css" rel="stylesheet">
-  <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
-  <link href="lib/lightbox/css/lightbox.min.css" rel="stylesheet">
-  <link rel="stylesheet" href="http://cdn.static.runoob.com/libs/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link href="static/lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+  <link href="static/lib/animate/animate.min.css" rel="stylesheet">
+  <link href="static/lib/ionicons/css/ionicons.min.css" rel="stylesheet">
+  <link href="static/lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+  <link href="static/lib/lightbox/css/lightbox.min.css" rel="stylesheet">
   <!-- Main Stylesheet File -->
-  <link href="css/style.css" rel="stylesheet">
-  <link href="css/style.min.css" rel="stylesheet">
-  <link href="css/pgwslideshow.css" rel="stylesheet">
-  <link href="css/pgwslideshow.min.css" rel="stylesheet">
+  <link href="static/css/style.css" rel="stylesheet">
+  <link href="static/css/style.min.css" rel="stylesheet">
+  <link href="static/css/pgwslideshow.css" rel="stylesheet">
+  <link href="static/css/pgwslideshow.min.css" rel="stylesheet">
+  <script src=https://unpkg.com/md.js@0.2.6/md.min.js></script>
   <style>
     #header{
       position: relative;
@@ -52,6 +52,9 @@
       /* padding:0px;
       margin:0px;  */
     }
+    #news_content{
+      min-height: 500px;
+    }
 
   @media (max-width: 768px) {
 
@@ -72,7 +75,7 @@
         <!-- <h1><a href="#intro" class="scrollto">QL</a></h1> -->
         <!-- <img src="img/logo.png"  alt=""> -->
         <!-- Uncomment below if you prefer to use an image logo -->
-        <a href="#intro"><img src="img/logo.png" height="62px" alt="" title="" /></a>
+        <a href="#intro"><img src="static/img/logo.png" height="62px" alt="" title="" /></a>
       </div>
 
       <nav id="nav-menu-container">
@@ -177,24 +180,24 @@
     </div>
   </footer><!-- #footer -->
    <!-- JavaScript Libraries -->
-  <script src="lib/jquery/jquery.min.js"></script>
-  <script src="lib/jquery/jquery-migrate.min.js"></script>
+  <script src="static/lib/jquery/jquery.min.js"></script>
+  <script src="static/lib/jquery/jquery-migrate.min.js"></script>
   <!-- <script src="lib/bootstrap/js/bootstrap.bundle.min.js"></script> -->
-  <script src="lib/bootstrap/js/bootstrap.min.js"></script>
-  <script src="lib/easing/easing.min.js"></script>
-  <script src="lib/superfish/hoverIntent.js"></script>
-  <script src="lib/superfish/superfish.min.js"></script>
-  <script src="lib/wow/wow.min.js"></script>
-  <script src="lib/waypoints/waypoints.min.js"></script>
-  <script src="lib/counterup/counterup.min.js"></script>
-  <script src="lib/owlcarousel/owl.carousel.min.js"></script>
-  <script src="lib/isotope/isotope.pkgd.min.js"></script>
+  <script src="static/lib/bootstrap/js/bootstrap.min.js"></script>
+  <script src="static/lib/easing/easing.min.js"></script>
+  <script src="static/lib/superfish/hoverIntent.js"></script>
+  <script src="static/lib/superfish/superfish.min.js"></script>
+  <script src="static/lib/wow/wow.min.js"></script>
+  <script src="static/lib/waypoints/waypoints.min.js"></script>
+  <script src="static/lib/counterup/counterup.min.js"></script>
+  <script src="static/lib/owlcarousel/owl.carousel.min.js"></script>
+  <script src="static/lib/isotope/isotope.pkgd.min.js"></script>
   <!-- <script src="lib/lightbox/js/lightbox.min.js"></script> -->
-  <script src="lib/touchSwipe/jquery.touchSwipe.min.js"></script>
+  <script src="static/lib/touchSwipe/jquery.touchSwipe.min.js"></script>
   <!-- Contact Form JavaScript File -->
-  <script src="contactform/contactform.js"></script>
-  <script src="js/pgwslideshow.js"></script>
-  <script src="js/pgwslideshow.min.js"></script>
+  <script src="static/contactform/contactform.js"></script>
+  <script src="static/js/pgwslideshow.js"></script>
+  <script src="static/js/pgwslideshow.min.js"></script>
   <script type="text/javascript">
   function getUrlParam(name) {
           var reg = new RegExp("(^|&)" + name + "=([^&]*)(&|$)"); //构造一个含有目标参数的正则表达式对象
@@ -211,7 +214,7 @@
       success:function(res){
         // console.log(res);
         $("#news_content").empty();
-        var txt = "<h2>"+res.data.title+"</h2><h4>"+res.data.post_time+"</h4><hr style='border-top:2px solid #242a30'></hr><div class='news-content'>"+res.data.content+"</div>";
+        var txt = "<h2>"+res.data.title+"</h2><h4>"+res.data.post_time+"</h4><hr style='border-top:2px solid #242a30'></hr><div class='news-content'>"+md(res.data.content)+"</div>";
         $("#news_content").append(txt);
       }
     })

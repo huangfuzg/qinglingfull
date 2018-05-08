@@ -16,6 +16,8 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path
 from main import views as main_views
+from django.conf import settings
+from django.conf.urls.static import static
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('sendMail', main_views.sendMail),
@@ -27,4 +29,4 @@ urlpatterns = [
     path('mobile_powercord', main_views.getMobilePowercord),
     path('news', main_views.getNews),
     path('mobile_product', main_views.getMobileProduct),
-]
+] + static(settings.STATIC_URL,document_root=settings.STATIC_ROOT)

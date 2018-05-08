@@ -1,0 +1,2224 @@
+[
+	{
+		"id":"00",
+		"name":"Chian power cord",
+		"plugs":[
+			{
+				"drawing":"Chinapowercord-1-drawing.png",
+				"picture":"Chinapowercord-1-picture.png",
+				"cabels":[
+					"227IEC42(RVB)2×0.5mm²   6A250V",
+					"227IEC42(RVB)2×0.75mm²  6A250V",
+					"227IEC52(RVV)2×0.5mm²   6A250V",
+					"227IEC52(RVV)2×0.75mm²  6A250V"
+				]
+			},
+			{
+				"drawing":"Chinapowercord-2-drawing.png",
+				"picture":"Chinapowercord-2-picture.png",
+				"cabels":[
+					"227IEC52(RVV) 2×0.75mm² 6A250V",
+					"227IEC53(RVV) 2×0.75mm² 6A250V",
+					"227IEC53(RVV) 2×1.0mm²  10A250V",
+					"227IEC42(RVB)2×0.5mm²   6A250V",
+					"227IEC42(RVB)2×0.75mm²  6A250V",
+					"227IEC52(RVV)2×0.5mm²   6A250V",
+					"227IEC52(RVV)2×0.75mm²  6A250V"
+				]
+			},
+			{
+				"drawing":"Chinapowercord-3-drawing.png",
+				"picture":"Chinapowercord-3-picture.png",
+				"cabels":[
+					"227IEC52（RVV）3×0.5mm²   6A250V",
+					"227IEC52（RVV）3×0.75mm²  6A250V",
+					"227IEC53（RVV）3×0.75mm²  6A250V",
+					"227IEC53（RVV）3×1.0mm²   10A250V"
+				]
+			},
+			{
+				"drawing":"Chinapowercord-4-drawing.png",
+				"picture":"Chinapowercord-4-picture.png",
+				"cabels":[
+					"227IEC52（RVV）3×0.5mm²   6A250V",
+					"227IEC52（RVV）3×0.75mm²  6A250V",
+					"227IEC53（RVV）3×0.75mm²  6A250V",
+					"227IEC53（RVV）3×1.0mm²   10A250V"
+				]
+			},
+			{
+				"drawing":"Chinapowercord-5-drawing.png",
+				"picture":"Chinapowercord-5-picture.png",
+				"cabels":[
+					"227IEC52（RVV）3×0.5mm²   6A250V",
+					"227IEC52（RVV）3×0.75mm²  6A250V",
+					"227IEC53（RVV）3×0.75mm²  6A250V",
+					"227IEC53（RVV）3×1.0mm²   10A250V",
+					"RX 300/300V    3×0.75mm²  6A250V",
+					"RX 300/300V    3×1.0mm²   10A250V"
+				]
+			}
+		],
+		"cable":[{
+			"name":"cable",
+			"standard":"GB5023.3-1997",
+			"model":["227 IEC 02(RV)","227 IEC 08(RV-90)"],
+			"currentVoltage":["227 IEC 02(RV)    450/750V","227 IEC 08(RV-90) 300/500V"],
+			"application":["02 housing electrical products and instruments","08 electrical appliance connection"],
+			"modelParams":[
+				{
+					"name":"227 IEC 02(RV)",
+					"img":["227-IEC-02(RV).png"],
+					"others":[{
+						"section(mm²)":"1.5",
+						"structure(No./mm)":"48/0.2",
+						"Insulation thickness(mm)":"0.7",
+						"Jacket thickness(mm)":"",
+						"OD(mm)":"3.0"
+					},
+					{
+						"section(mm²)":"2.5",
+						"structure(No./mm)":"80/0.2",
+						"Insulation thickness(mm)":"0.8",
+						"Jacket thickness(mm)":"",
+						"OD(mm)":"3.65"
+					}]
+				},
+				{
+					"name":"227 IEC 08(RV-90)",
+					"img":["227-IEC-08(RV-90).png"],
+					"others":[{
+						"section(mm²)":"0.75",
+						"structure(No./mm)":"42/0.15",
+						"Insulation thickness(mm)":"0.6",
+						"Jacket thickness(mm)":"",
+						"OD(mm)":"2.6"
+					},
+					{
+						"section(mm²)":"1.0",
+						"structure(No./mm)":"32/0.2",
+						"Insulation thickness(mm)":"0.6",
+						"Jacket thickness(mm)":"",
+						"OD(mm)":"2.8"
+					},
+					{
+						"section(mm²)":"1.5",
+						"structure(No./mm)":"48/0.2",
+						"Insulation thickness(mm)":"0.7",
+						"Jacket thickness(mm)":"",
+						"OD(mm)":"3.05"
+					},
+					{
+						"section(mm²)":"2.5",
+						"structure(No./mm)":"80/0.2",
+						"Insulation thickness(mm)":"0.8",
+						"Jacket thickness(mm)":"",
+						"OD(mm)":"3.7"
+					}]
+				}
+			]
+		},
+		{
+			"name":"Flat soft cable",
+			"standard":"GB5023.5-1997",
+			"model":["227 IE C42(RVB)"],
+			"currentVoltage":["300/300V"],
+			"application":["Small housing electrical instruments and light"],
+			"modelParams":[
+				{
+					"name":"227 IEC 42(RVB)",
+					"img":["227-IEC-42(RVB).png"],
+					"others":[{
+						"core":"2",
+						"section(mm²)":"0.5",
+						"structure(No./mm)":"28/0.15",
+						"Insulation thickness(mm)":"0.8",
+						"Jacket thickness(mm)":"",
+						"OD(mm)":"2.7X5.4"
+					},
+					{
+						"core":"2",
+						"section(mm²)":"0.75",
+						"structure(No./mm)":"42/0.15",
+						"Insulation thickness(mm)":"0.8",
+						"Jacket thickness(mm)":"",
+						"OD(mm)":"2.9X5.8"
+					}]
+				}]
+			},
+			{
+			"name":"Soft jacket cable",
+			"standard":"GB5023.5-1997",
+			"model":["227 IEC 52(RVV)","227 IEC 53(RVV)"],
+			"currentVoltage":["227 IEC 52(RVV)300/300V","227 IEC 53(RVV)300/500V"],
+			"application":["227 IEC 52(RVV) housing electrical instruments and light","227 IEC 53(RVV) electrical instruments and light"],
+			"modelParams":[
+				{
+					"name":"227 IEC 52(RVV)",
+					"img":["227-IEC-52(RVV)-flat.png","227-IEC-52(RVV)-round1.png","227-IEC-52(RVV)-round2.png"],
+					"others":[{
+						"core":"2",
+						"section(mm²)":"0.5",
+						"structure(No./mm)":"28/0.15",
+						"Insulation thickness(mm)":"0.5",
+						"Jacket thickness(mm)":"0.6",
+						"OD(mm)":"5.3"
+					},
+					{
+						"core":"2",
+						"section(mm²)":"0.5",
+						"structure(No./mm)":"28/0.15",
+						"Insulation thickness(mm)":"0.5",
+						"Jacket thickness(mm)":"0.6",
+						"OD(mm)":"3.26X5.3"
+					},
+					{
+						"core":"2",
+						"section(mm²)":"0.75",
+						"structure(No./mm)":"42/0.15",
+						"Insulation thickness(mm)":"0.5",
+						"Jacket thickness(mm)":"0.6",
+						"OD(mm)":"5.7"
+					},
+					{
+						"core":"2",
+						"section(mm²)":"0.75",
+						"structure(No./mm)":"42/0.15",
+						"Insulation thickness(mm)":"0.5",
+						"Jacket thickness(mm)":"0.6",
+						"OD(mm)":"3.4X5.8"
+					},
+					{
+						"core":"3",
+						"section(mm²)":"0.5",
+						"structure(No./mm)":"28/0.15",
+						"Insulation thickness(mm)":"0.5",
+						"Jacket thickness(mm)":"0.6",
+						"OD(mm)":"5.6"
+					},
+					{
+						"core":"3",
+						"section(mm²)":"0.75",
+						"structure(No./mm)":"42/0.15",
+						"Insulation thickness(mm)":"0.5",
+						"Jacket thickness(mm)":"0.6",
+						"OD(mm)":"6.05"
+					}]
+				},
+				{
+					"name":"227 IEC 53(RVV)",
+					"img":["227-IEC-53(RVV)-flat.png","227-IEC-53(RVV)-round1.png","227-IEC-53(RVV)-round2.png"],
+					"others":[{
+						"core":"2",
+						"section(mm²)":"0.75",
+						"structure(No./mm)":"42/0.15",
+						"Insulation thickness(mm)":"0.6",
+						"Jacket thickness(mm)":"0.8",
+						"OD(mm)":"6.5"
+					},
+					{
+						"core":"2",
+						"section(mm²)":"0.75",
+						"structure(No./mm)":"42/0.15",
+						"Insulation thickness(mm)":"0.6",
+						"Jacket thickness(mm)":"0.8",
+						"OD(mm)":"4.1X6.5"
+					},
+					{
+						"core":"2",
+						"section(mm²)":"1.0",
+						"structure(No./mm)":"32/0.2",
+						"Insulation thickness(mm)":"0.6",
+						"Jacket thickness(mm)":"0.8",
+						"OD(mm)":"6.9"
+					},
+					{
+						"core":"2",
+						"section(mm²)":"1.5",
+						"structure(No./mm)":"48/0.15",
+						"Insulation thickness(mm)":"0.7",
+						"Jacket thickness(mm)":"0.8",
+						"OD(mm)":"7.7"
+					},
+					{
+						"core":"3",
+						"section(mm²)":"0.75",
+						"structure(No./mm)":"42/0.15",
+						"Insulation thickness(mm)":"0.6",
+						"Jacket thickness(mm)":"0.8",
+						"OD(mm)":"6.9"
+					},
+					{
+						"core":"3",
+						"section(mm²)":"1.0",
+						"structure(No./mm)":"32/0.15",
+						"Insulation thickness(mm)":"0.6",
+						"Jacket thickness(mm)":"0.8",
+						"OD(mm)":"7.4"
+					},
+					{
+						"core":"3",
+						"section(mm²)":"1.5",
+						"structure(No./mm)":"48/0.15",
+						"Insulation thickness(mm)":"0.7",
+						"Jacket thickness(mm)":"0.9",
+						"OD(mm)":"8.5"
+					}]
+				}]
+			}]
+	},
+	{
+		"id":"01",
+		"name":"Europe ac power cord",
+		"plugs":[
+			{
+				"drawing":"Europepowercord-1-drawing.png",
+				"picture":"Europepowercord-1-picture.png",
+				"cabels":[
+					"H03VVH2 -F 2X0.5mm²  10/16A250V",
+					"H03VVH2 -F 2X0.75mm² 10/16A250V",
+					"H03VV -F 2X0.5mm²  10/16A250V",
+					"H03VV -F 2X0.75mm² 10/16A250V",
+					"H05VVH2 -F 2X0.75mm² 10/16A250V",
+					"H05VVH2 -F 2X1.0mm²  10/16A250V",
+					"H05VV -F 2X0.75mm² 10/16A250V",
+					"H05VV -F 2X1.0mm²  10/16A250V"
+				]
+			},
+			{
+				"drawing":"Europepowercord-2-drawing.png",
+				"picture":"Europepowercord-2-picture.png",
+				"cabels":[
+					"H03VVH2 -F 2X0.5mm² 2.5A250V",
+					"H03VVH2 -F 2X0.75mm² 2.5A250V",
+					"H03VV -F 2X0.5mm² 2.5A250V",
+					"H03VV -F 2X0.75mm² 2.5A250V",
+					"H05VVH2 -F 2X0.75mm² 10A250V",
+					"H05VVH2 -F 2X1.0mm² 10A250V",
+					"H05VV -F 2X0.75mm² 10A250V",
+					"H05VV -F 2X1.0mm² 10A250V"
+				]
+			},
+			{
+				"drawing":"Europepowercord-3-drawing.png",
+				"picture":"Europepowercord-3-picture.png",
+				"cabels":[
+					"227IEC42(RVB)2×0.5mm²   6A250V",
+					"227IEC42(RVB)2×0.75mm²  6A250V",
+					"227IEC52(RVV)2×0.5mm²   6A250V",
+					"227IEC52(RVV)2×0.75mm²  6A250V"
+				]
+			},
+			{
+				"drawing":"Europepowercord-4-drawing.png",
+				"picture":"Europepowercord-4-picture.png",
+				"cabels":[
+					"H03VVH2 -F 2X0.5mm² 2.5A250V",
+					"H03VVH2 -F 2X0.75mm² 2.5A250V",
+					"H03VV -F 2X0.5mm² 2.5A250V",
+					"H03VV -F 2X0.75mm² 2.5A250V",
+					"H05VVH2 -F 2X0.75mm² 10A250V",
+					"H05VVH2 -F 2X1.0mm² 10A250V",
+					"H05VV -F 2X0.75mm² 10A250V",
+					"H05VV -F 2X1.0mm² 10A250V"
+				]
+			},
+			{
+				"drawing":"Europepowercord-5-drawing.png",
+				"picture":"Europepowercord-5-picture.png",
+				"cabels":[
+					"H03VV -F 3G0.5mm² 10/16A250V",
+					"H03VV -F 3G0.75mm² 10/16A250V",
+					"H05VV -F 3G0.75mm² 10/16A250V",
+					"H05VV -F 3G1.0mm² 10/16A250V",
+					"H05VV -F 3G1.5mm² 10/16A250V"
+				]
+			},
+			{
+				"drawing":"Europepowercord-6-drawing.png",
+				"picture":"Europepowercord-6-picture.png",
+				"cabels":[
+					"H03VV -F 3G0.5mm² 10/16A250V",
+					"H03VV -F 3G0.75mm² 10/16A250V",
+					"H05VV -F 3G0.75mm² 10/16A250V",
+					"H05VV -F 3G1.0mm² 10/16A250V",
+					"H05VV -F 3G1.5mm² 10/16A250V"
+				]
+			}
+		],
+		"cable":[{
+			"name":"Europe power cable",
+			"standard":"DIN VDE0281",
+			"model":["H03VVH2-F  H03VV-F","H05VVH2-F  H05VV-F"],
+			"currentVoltage":["H03 300/300V","H05 300/500V"],
+			"application":["Housing electrical instruments and lights"],
+			"modelParams":[
+				{
+					"name":"H03VVH2-F",
+					"img":["H03VVH2-F.png"],
+					"others":[{
+						"core":"2",
+						"section(mm²)":"0.5",
+						"structure(No./mm)":"28/0.15",
+						"Insulation thickness(mm)":"0.5",
+						"Jacket thickness(mm)":"0.5",
+						"OD(mm)":"3.3X5.4"
+					},
+					{
+						"core":"2",
+						"section(mm²)":"0.5",
+						"structure(No./mm)":"28/0.15",
+						"Insulation thickness(mm)":"0.5",
+						"Jacket thickness(mm)":"0.5",
+						"OD(mm)":"5.4"
+					},
+					{
+						"core":"2",
+						"section(mm²)":"0.75",
+						"structure(No./mm)":"42/0.15",
+						"Insulation thickness(mm)":"0.5",
+						"Jacket thickness(mm)":"0.5",
+						"OD(mm)":"3.4X5.6"
+					},
+					{
+						"core":"2",
+						"section(mm²)":"0.75",
+						"structure(No./mm)":"42/0.15",
+						"Insulation thickness(mm)":"0.5",
+						"Jacket thickness(mm)":"0.5",
+						"OD(mm)":"5.6"
+					},
+					{
+						"core":"3",
+						"section(mm²)":"0.5",
+						"structure(No./mm)":"28/0.15",
+						"Insulation thickness(mm)":"0.5",
+						"Jacket thickness(mm)":"0.5",
+						"OD(mm)":"5.6"
+					},
+					{
+						"core":"3",
+						"section(mm²)":"0.75",
+						"structure(No./mm)":"42/0.15",
+						"Insulation thickness(mm)":"0.5",
+						"Jacket thickness(mm)":"0.5",
+						"OD(mm)":"6.1"
+					}]
+				},
+				{
+					"name":"H03VV-F",
+					"img":["H03VV-F.png","H05VV-F.png"],
+					"others":[{
+						"core":"2",
+						"section(mm²)":"0.5",
+						"structure(No./mm)":"28/0.15",
+						"Insulation thickness(mm)":"0.5",
+						"Jacket thickness(mm)":"0.5",
+						"OD(mm)":"3.3X5.4"
+					},
+					{
+						"core":"2",
+						"section(mm²)":"0.5",
+						"structure(No./mm)":"28/0.15",
+						"Insulation thickness(mm)":"0.5",
+						"Jacket thickness(mm)":"0.5",
+						"OD(mm)":"5.4"
+					},
+					{
+						"core":"2",
+						"section(mm²)":"0.75",
+						"structure(No./mm)":"42/0.15",
+						"Insulation thickness(mm)":"0.5",
+						"Jacket thickness(mm)":"0.5",
+						"OD(mm)":"3.4X5.6"
+					},
+					{
+						"core":"2",
+						"section(mm²)":"0.75",
+						"structure(No./mm)":"42/0.15",
+						"Insulation thickness(mm)":"0.5",
+						"Jacket thickness(mm)":"0.5",
+						"OD(mm)":"5.6"
+					},
+					{
+						"core":"3",
+						"section(mm²)":"0.5",
+						"structure(No./mm)":"28/0.15",
+						"Insulation thickness(mm)":"0.5",
+						"Jacket thickness(mm)":"0.5",
+						"OD(mm)":"5.6"
+					},
+					{
+						"core":"3",
+						"section(mm²)":"0.75",
+						"structure(No./mm)":"42/0.15",
+						"Insulation thickness(mm)":"0.5",
+						"Jacket thickness(mm)":"0.5",
+						"OD(mm)":"6.1"
+					}]
+				},
+				{
+					"name":"H05VVH2-F",
+					"img":["H05VVH2-F.png"],
+					"others":[{
+						"core":"2",
+						"section(mm²)":"0.75",
+						"structure(No./mm)":"42/0.15",
+						"Insulation thickness(mm)":"0.6",
+						"Jacket thickness(mm)":"0.8",
+						"OD(mm)":"6.5"
+					},
+					{
+						"core":"2",
+						"section(mm²)":"0.75",
+						"structure(No./mm)":"42/0.15",
+						"Insulation thickness(mm)":"0.6",
+						"Jacket thickness(mm)":"0.8",
+						"OD(mm)":"4.1X6.5"
+					},
+					{
+						"core":"2",
+						"section(mm²)":"1.0",
+						"structure(No./mm)":"32/0.2",
+						"Insulation thickness(mm)":"0.6",
+						"Jacket thickness(mm)":"0.8",
+						"OD(mm)":"6.7"
+					},
+					{
+						"core":"2",
+						"section(mm²)":"1.0",
+						"structure(No./mm)":"32/0.2",
+						"Insulation thickness(mm)":"0.6",
+						"Jacket thickness(mm)":"0.8",
+						"OD(mm)":"4.3X6.9"
+					},
+					{
+						"core":"2",
+						"section(mm²)":"1.5",
+						"structure(No./mm)":"48/0.2",
+						"Insulation thickness(mm)":"0.8",
+						"Jacket thickness(mm)":"0.8",
+						"OD(mm)":"7.7"
+					},
+					{
+						"core":"3",
+						"section(mm²)":"0.75",
+						"structure(No./mm)":"42/0.15",
+						"Insulation thickness(mm)":"0.6",
+						"Jacket thickness(mm)":"0.8",
+						"OD(mm)":"6.8"
+					},
+					{
+						"core":"3",
+						"section(mm²)":"1.0",
+						"structure(No./mm)":"32/0.2",
+						"Insulation thickness(mm)":"0.6",
+						"Jacket thickness(mm)":"0.8",
+						"OD(mm)":"7.3"
+					},
+					{
+						"core":"3",
+						"section(mm²)":"1.5",
+						"structure(No./mm)":"48/0.15",
+						"Insulation thickness(mm)":"0.8",
+						"Jacket thickness(mm)":"0.9",
+						"OD(mm)":"8.4"
+					}]
+				},
+				{
+					"name":"H05VV-F",
+					"img":["H05VV-F.png","H03VV-F.png"],
+					"others":[{
+						"core":"2",
+						"section(mm²)":"0.75",
+						"structure(No./mm)":"42/0.15",
+						"Insulation thickness(mm)":"0.6",
+						"Jacket thickness(mm)":"0.8",
+						"OD(mm)":"6.5"
+					},
+					{
+						"core":"2",
+						"section(mm²)":"0.75",
+						"structure(No./mm)":"42/0.15",
+						"Insulation thickness(mm)":"0.6",
+						"Jacket thickness(mm)":"0.8",
+						"OD(mm)":"4.1X6.5"
+					},
+					{
+						"core":"2",
+						"section(mm²)":"1.0",
+						"structure(No./mm)":"32/0.2",
+						"Insulation thickness(mm)":"0.6",
+						"Jacket thickness(mm)":"0.8",
+						"OD(mm)":"6.7"
+					},
+					{
+						"core":"2",
+						"section(mm²)":"1.0",
+						"structure(No./mm)":"32/0.2",
+						"Insulation thickness(mm)":"0.6",
+						"Jacket thickness(mm)":"0.8",
+						"OD(mm)":"4.3X6.9"
+					},
+					{
+						"core":"2",
+						"section(mm²)":"1.5",
+						"structure(No./mm)":"48/0.2",
+						"Insulation thickness(mm)":"0.8",
+						"Jacket thickness(mm)":"0.8",
+						"OD(mm)":"7.7"
+					},
+					{
+						"core":"3",
+						"section(mm²)":"0.75",
+						"structure(No./mm)":"42/0.15",
+						"Insulation thickness(mm)":"0.6",
+						"Jacket thickness(mm)":"0.8",
+						"OD(mm)":"6.8"
+					},
+					{
+						"core":"3",
+						"section(mm²)":"1.0",
+						"structure(No./mm)":"32/0.2",
+						"Insulation thickness(mm)":"0.6",
+						"Jacket thickness(mm)":"0.8",
+						"OD(mm)":"7.3"
+					},
+					{
+						"core":"3",
+						"section(mm²)":"1.5",
+						"structure(No./mm)":"48/0.15",
+						"Insulation thickness(mm)":"0.8",
+						"Jacket thickness(mm)":"0.9",
+						"OD(mm)":"8.4"
+					}]
+				}]
+				}]
+	},
+	{
+		"id":"02",
+		"name":"Italy power cord",
+		"plugs":[
+			{
+				"drawing":"Italypowercord-1-drawing.png",
+				"picture":"Italypowercord-1-picture.png",
+				"cabels":[
+					"H03VV -F 3G0.5mm² 10A250V",
+					"H03VV -F 3G0.5mm² 10A250V",
+					"H03VV -F 3G0.5mm² 10A250V",
+					"H03VV -F 3G0.5mm² 10A250V"
+				]
+			}
+		],
+		"cable":[{
+			"name":"Europe power cable",
+			"standard":"DIN VDE0281",
+			"model":["H03VV-F","H05VV-F"],
+			"currentVoltage":["H03 300/300V","H05 300/500V"],
+			"application":["Housing electrical instruments and lights"],
+			"modelParams":[
+				{
+					"name":"H03VV-F",
+					"img":["H03VV-F.png"],
+					"others":[{
+						"core":"2",
+						"section(mm²)":"0.5",
+						"structure(No./mm)":"28/0.15",
+						"Insulation thickness(mm)":"0.5",
+						"Jacket thickness(mm)":"0.5",
+						"OD(mm)":"3.3X5.4"
+					},
+					{
+						"core":"2",
+						"section(mm²)":"0.5",
+						"structure(No./mm)":"28/0.15",
+						"Insulation thickness(mm)":"0.5",
+						"Jacket thickness(mm)":"0.5",
+						"OD(mm)":"5.4"
+					},
+					{
+						"core":"2",
+						"section(mm²)":"0.75",
+						"structure(No./mm)":"42/0.15",
+						"Insulation thickness(mm)":"0.5",
+						"Jacket thickness(mm)":"0.5",
+						"OD(mm)":"3.4X5.6"
+					},
+					{
+						"core":"2",
+						"section(mm²)":"0.75",
+						"structure(No./mm)":"42/0.15",
+						"Insulation thickness(mm)":"0.5",
+						"Jacket thickness(mm)":"0.5",
+						"OD(mm)":"5.6"
+					},
+					{
+						"core":"3",
+						"section(mm²)":"0.5",
+						"structure(No./mm)":"28/0.15",
+						"Insulation thickness(mm)":"0.5",
+						"Jacket thickness(mm)":"0.5",
+						"OD(mm)":"5.6"
+					},
+					{
+						"core":"3",
+						"section(mm²)":"0.75",
+						"structure(No./mm)":"42/0.15",
+						"Insulation thickness(mm)":"0.5",
+						"Jacket thickness(mm)":"0.5",
+						"OD(mm)":"6.1"
+					}]
+				},
+				{
+					"name":"H05VV-F",
+					"img":["H05VV-F.png"],
+					"others":[{
+						"core":"2",
+						"section(mm²)":"0.75",
+						"structure(No./mm)":"42/0.15",
+						"Insulation thickness(mm)":"0.6",
+						"Jacket thickness(mm)":"0.8",
+						"OD(mm)":"6.5"
+					},
+					{
+						"core":"2",
+						"section(mm²)":"0.75",
+						"structure(No./mm)":"42/0.15",
+						"Insulation thickness(mm)":"0.6",
+						"Jacket thickness(mm)":"0.8",
+						"OD(mm)":"4.1X6.5"
+					},
+					{
+						"core":"2",
+						"section(mm²)":"1.0",
+						"structure(No./mm)":"32/0.2",
+						"Insulation thickness(mm)":"0.6",
+						"Jacket thickness(mm)":"0.8",
+						"OD(mm)":"6.7"
+					},
+					{
+						"core":"2",
+						"section(mm²)":"1.0",
+						"structure(No./mm)":"32/0.2",
+						"Insulation thickness(mm)":"0.6",
+						"Jacket thickness(mm)":"0.8",
+						"OD(mm)":"4.3X6.9"
+					},
+					{
+						"core":"2",
+						"section(mm²)":"1.5",
+						"structure(No./mm)":"48/0.2",
+						"Insulation thickness(mm)":"0.8",
+						"Jacket thickness(mm)":"0.8",
+						"OD(mm)":"7.7"
+					},
+					{
+						"core":"3",
+						"section(mm²)":"0.75",
+						"structure(No./mm)":"42/0.15",
+						"Insulation thickness(mm)":"0.6",
+						"Jacket thickness(mm)":"0.8",
+						"OD(mm)":"6.8"
+					},
+					{
+						"core":"3",
+						"section(mm²)":"1.0",
+						"structure(No./mm)":"32/0.2",
+						"Insulation thickness(mm)":"0.6",
+						"Jacket thickness(mm)":"0.8",
+						"OD(mm)":"7.3"
+					},
+					{
+						"core":"3",
+						"section(mm²)":"1.5",
+						"structure(No./mm)":"48/0.15",
+						"Insulation thickness(mm)":"0.8",
+						"Jacket thickness(mm)":"0.9",
+						"OD(mm)":"8.4"
+					}]
+				}]
+			}]
+	},
+	{
+		"id":"03",
+		"name":"Brazil power cord",
+		"plugs":[
+			{
+				"drawing":"Brazilpowercord-1-drawing.png",
+				"picture":"Brazilpowercord-1-picture.png",
+				"cabels":[
+					"H03VV -F 3G0.5mm² 10A250V",
+					"H03VV -F 3G0.5mm² 10A250V",
+					"H03VV -F 3G0.5mm² 10A250V",
+					"H03VV -F 3G0.5mm² 10A250V"
+				]
+			}],
+		"cable":[{
+			"name":"Europe power cable",
+			"standard":"DIN VDE0281",
+			"model":["H03VV-F"],
+			"currentVoltage":["H03 300/300V"],
+			"application":["Housing electrical instruments and lights"],
+			"modelParams":[
+				{
+				"name":"H03VV-F",
+				"img":["H03VV-F.png"],
+				"others":[{
+						"core":"2",
+						"section(mm²)":"0.5",
+						"structure(No./mm)":"28/0.15",
+						"Insulation thickness(mm)":"0.5",
+						"Jacket thickness(mm)":"0.5",
+						"OD(mm)":"3.3X5.4"
+					},
+					{
+						"core":"2",
+						"section(mm²)":"0.5",
+						"structure(No./mm)":"28/0.15",
+						"Insulation thickness(mm)":"0.5",
+						"Jacket thickness(mm)":"0.5",
+						"OD(mm)":"5.4"
+					},
+					{
+						"core":"2",
+						"section(mm²)":"0.75",
+						"structure(No./mm)":"42/0.15",
+						"Insulation thickness(mm)":"0.5",
+						"Jacket thickness(mm)":"0.5",
+						"OD(mm)":"3.4X5.6"
+					},
+					{
+						"core":"2",
+						"section(mm²)":"0.75",
+						"structure(No./mm)":"42/0.15",
+						"Insulation thickness(mm)":"0.5",
+						"Jacket thickness(mm)":"0.5",
+						"OD(mm)":"5.6"
+					},
+					{
+						"core":"3",
+						"section(mm²)":"0.5",
+						"structure(No./mm)":"28/0.15",
+						"Insulation thickness(mm)":"0.5",
+						"Jacket thickness(mm)":"0.5",
+						"OD(mm)":"5.6"
+					},
+					{
+						"core":"3",
+						"section(mm²)":"0.75",
+						"structure(No./mm)":"42/0.15",
+						"Insulation thickness(mm)":"0.5",
+						"Jacket thickness(mm)":"0.5",
+						"OD(mm)":"6.1"
+					}]
+				}]
+		}]
+	},
+	{
+		"id":"04",
+		"name":"Usa power cord",
+		"plugs":[
+			{
+				"drawing":"Usapowercord-1-drawing.png",
+				"picture":"Usapowercord-1-picture.png",
+				"cabels":[
+						"SPT-1          18AWG/2C",
+						"SPT-2/SPT-2-R  18AWG/2C",
+						"SPT-2          16AWG/2C",
+						"SPT-3          18AWG/2C",
+						"SPT-3          16AWG/2C",
+						"SVT            18AWG/2C",
+						"SVT            17AWG/2C"
+				]
+			},
+			{
+				"drawing":"Usapowercord-2-drawing.png",
+				"picture":"Usapowercord-2-picture.png",
+				"cabels":[
+						"NISPT-1  18AWG/2C",
+						"SPT-2-R  18AWG/2C",
+						"NISPT-2  18AWG/2C"
+				]
+			},
+			{
+				"drawing":"Usapowercord-3-drawing.png",
+				"picture":"Usapowercord-3-picture.png",
+				"cabels":[
+						"SVT      18AWG/2C",
+						"SVT      17AWG/2C",
+						"ST       18AWG/2C",
+						"ST       16AWG/2C",
+						"SJT      18AWG/2C",
+						"SJT      16AWG/2C",
+						"NISPT-1  18AWG/2C",
+						"NISPT-2  18AWG/2C"
+				]
+			},
+			{
+				"drawing":"Usapowercord-4-drawing.png",
+				"picture":"Usapowercord-4-picture.png",
+				"cabels":[
+						"SVT  18AWG/2C",
+						"SVT  17AWG/2C",
+						"ST   18AWG/2C",
+						"ST   16AWG/2C"
+				]
+			},
+			{
+				"drawing":"Usapowercord-5-drawing.png",
+				"picture":"Usapowercord-5-picture.png",
+				"cabels":[
+						"SPT-1  18AWG/3C",
+						"SPT-2  18AWG-16AWG/3C",
+						"SPT-3  18AWG-16AWG/3C",
+						"SVT    18AWG-17AWG/3C",
+						"ST     18AWG-16AWG/3C",
+						"SJT    18AWG-16AWG/3C"
+				]
+			},
+			{
+				"drawing":"Usapowercord-6-drawing.png",
+				"picture":"Usapowercord-6-picture.png",
+				"cabels":[
+						"SVT  18AWG/3C",
+						"SVT  17AWG/3C",
+						"ST   18AWG/3C",
+						"ST   16AWG/3C",
+						"SJT  16AWG/3C",
+						"SJT  18AWG/3C"
+				]
+			}
+		],
+		"cable":[{
+			"name":"America power cable",
+			"standard":"UL62",
+			"model":["SPT-1","SPT-2","SPT-3","NISPT-1","NISPT-2","SVT","ST","SJT"],
+			"currentVoltage":["300V","600V(ST)"],
+			"temperature":"60°C/105°C",
+			"application":["Housing electrical instruments"],
+			"modelParams":[
+				{
+					"name":"SPT-1",
+					"img":[""],
+					"others":[{
+						"core":"2",
+						"AWG":"18",
+						"section(mm²)":"0.823",
+						"structure(No./mm)":"41/0.16",
+						"Jacket thickness(mm)":"0.76",
+						"OD(mm)":"2.7X5.4"
+					},
+					{
+						"core":"3",
+						"AWG":"18",
+						"section(mm²)":"0.823",
+						"structure(No./mm)":"41/0.16",
+						"Jacket thickness(mm)":"0.76",
+						"OD(mm)":"2.7X7.5"
+					}]
+				},
+				{
+					"name":"SPT-2",
+					"img":[""],
+					"others":[{
+						"core":"2",
+						"AWG":"18",
+						"section(mm²)":"0.823",
+						"structure(No./mm)":"41/0.16",
+						"Jacket thickness(mm)":"1.14",
+						"OD(mm)":"3.5X6.9"
+					},
+					{
+						"core":"2",
+						"AWG":"16",
+						"section(mm²)":"1.31",
+						"structure(No./mm)":"2.6/0.253",
+						"Jacket thickness(mm)":"1.14",
+						"OD(mm)":"3.7X7.5"
+					},
+					{
+						"core":"3",
+						"AWG":"18",
+						"section(mm²)":"0.823",
+						"structure(No./mm)":"41/0.16",
+						"Jacket thickness(mm)":"1.14",
+						"OD(mm)":"3.6X8.6"
+					},
+					{
+						"core":"3",
+						"AWG":"16",
+						"section(mm²)":"1.31",
+						"structure(No./mm)":"26/0.253",
+						"Jacket thickness(mm)":"1.14",
+						"OD(mm)":"3.9X9.6"
+					}]
+				},
+				{
+					"name":"SPT-3",
+					"img":[""],
+					"others":[{
+						"core":"2",
+						"AWG":"18",
+						"section(mm²)":"0.823",
+						"structure(No./mm)":"41/0.16",
+						"Jacket thickness(mm)":"1.52",
+						"OD(mm)":"4.4X7.8"
+					},
+					{
+						"core":"2",
+						"AWG":"16",
+						"section(mm²)":"1.31",
+						"structure(No./mm)":"26/0.253",
+						"Jacket thickness(mm)":"1.52",
+						"OD(mm)":"4.5X9.1"
+					},
+					{
+						"core":"3",
+						"AWG":"18",
+						"section(mm²)":"0.823",
+						"structure(No./mm)":"41/0.16",
+						"Jacket thickness(mm)":"1.52",
+						"OD(mm)":"4.3X9.8"
+					},
+					{
+						"core":"3",
+						"AWG":"16",
+						"section(mm²)":"1.31",
+						"structure(No./mm)":"26/0.253",
+						"Jacket thickness(mm)":"1.52",
+						"OD(mm)":"4.6X11.8"
+					}]
+				},
+				{
+					"name":"NISPT-1",
+					"img":[""],
+					"others":[{
+						"core":"2",
+						"AWG":"18",
+						"section(mm²)":"0.823",
+						"structure(No./mm)":"41/0.16",
+						"Insulation thickness(mm)":"0.38",
+						"Jacket thickness(mm)":"0.76",
+						"OD(mm)":"3.1x6.0"
+					}]
+				},
+				{
+					"name":"NISPT-2",
+					"img":[""],
+					"others":[{
+						"core":"2",
+						"AWG":"18",
+						"section(mm²)":"0.823",
+						"structure(No./mm)":"41/0.16",
+						"Insulation thickness(mm)":"0.38",
+						"Jacket thickness(mm)":"0.38",
+						"OD(mm)":"4.0x7.6"
+					}]
+				},
+				{
+					"name":"SVT",
+					"img":[""],
+					"others":[{
+						"core":"2",
+						"AWG":"18",
+						"section(mm²)":"0.823",
+						"structure(No./mm)":"41/0.16",
+						"Insulation thickness(mm)":"0.38",
+						"Jacket thickness(mm)":"0.76",
+						"OD(mm)":"5.9±0.1"
+					},
+					{
+						"core":"3",
+						"AWG":"18",
+						"section(mm²)":"0.823",
+						"structure(No./mm)":"41/0.16",
+						"Insulation thickness(mm)":"0.38",
+						"Jacket thickness(mm)":"0.76",
+						"OD(mm)":"6.3±0.1"
+					},
+					{
+						"core":"2",
+						"AWG":"17",
+						"section(mm²)":"1.04",
+						"structure(No./mm)":"52/0.16",
+						"Insulation thickness(mm)":"0.38",
+						"Jacket thickness(mm)":"0.76",
+						"OD(mm)":"6.4±0.1"
+					},
+					{
+						"core":"3",
+						"AWG":"17",
+						"section(mm²)":"1.04",
+						"structure(No./mm)":"52/0.16",
+						"Insulation thickness(mm)":"0.38",
+						"Jacket thickness(mm)":"0.76",
+						"OD(mm)":"6.8±0.1"
+					}]
+				},
+				{
+					"name":"ST",
+					"img":[""],
+					"others":[{
+						"core":"2",
+						"AWG":"18",
+						"section(mm²)":"0.823",
+						"structure(No./mm)":"41/0.16",
+						"Insulation thickness(mm)":"0.76",
+						"Jacket thickness(mm)":"1.52",
+						"OD(mm)":"8.5±0.15"
+					},
+					{
+						"core":"3",
+						"AWG":"18",
+						"section(mm²)":"0.823",
+						"structure(No./mm)":"41/0.16",
+						"Insulation thickness(mm)":"0.76",
+						"Jacket thickness(mm)":"1.52",
+						"OD(mm)":"8.9±0.15"
+					},
+					{
+						"core":"2",
+						"AWG":"16",
+						"section(mm²)":"1.31",
+						"structure(No./mm)":"26/0.253",
+						"Insulation thickness(mm)":"0.76",
+						"Jacket thickness(mm)":"1.52",
+						"OD(mm)":"9.3±0.15"
+					},
+					{
+						"core":"3",
+						"AWG":"16",
+						"section(mm²)":"1.31",
+						"structure(No./mm)":"26/0.253",
+						"Insulation thickness(mm)":"0.76",
+						"Jacket thickness(mm)":"1.52",
+						"OD(mm)":"9.8±0.15"
+					}]
+				},
+				{
+					"name":"SJT",
+					"img":[""],
+					"others":[{
+						"core":"2",
+						"AWG":"18",
+						"section(mm²)":"0.823",
+						"structure(No./mm)":"41/0.16",
+						"Insulation thickness(mm)":"0.76",
+						"Jacket thickness(mm)":"0.76",
+						"OD(mm)":"7.4±0.15"
+					},
+					{
+						"core":"2",
+						"AWG":"16",
+						"section(mm²)":"1.31",
+						"structure(No./mm)":"26/0.253",
+						"Insulation thickness(mm)":"0.76",
+						"Jacket thickness(mm)":"0.76",
+						"OD(mm)":"7.8±0.15"
+					},
+					{
+						"core":"2",
+						"AWG":"14",
+						"section(mm²)":"2.08",
+						"structure(No./mm)":"41/0.253",
+						"Insulation thickness(mm)":"0.76",
+						"Jacket thickness(mm)":"0.76",
+						"OD(mm)":"8.6±0.15"
+					},
+					{
+						"core":"3",
+						"AWG":"18",
+						"section(mm²)":"0.823",
+						"structure(No./mm)":"41/0.16",
+						"Insulation thickness(mm)":"0.76",
+						"Jacket thickness(mm)":"0.76",
+						"OD(mm)":"7.8±0.15"
+					},
+					{
+						"core":"3",
+						"AWG":"16",
+						"section(mm²)":"1.31",
+						"structure(No./mm)":"26/0.253",
+						"Insulation thickness(mm)":"0.76",
+						"Jacket thickness(mm)":"0.76",
+						"OD(mm)":"8.4±0.15"
+					},
+					{
+						"core":"3",
+						"AWG":"14",
+						"section(mm²)":"2.08",
+						"structure(No./mm)":"41/0.253",
+						"Insulation thickness(mm)":"0.76",
+						"Jacket thickness(mm)":"0.76",
+						"OD(mm)":"9.3±0.15"
+					}]
+				}]
+			}]
+	},
+	{
+		"id":"05",
+		"name":"Japan power cord",
+		"plugs":[
+			{
+				"drawing":"Japanpowercord-1-drawing.png",
+				"picture":"Japanpowercord-1-picture.png",
+				"cabels":[
+						"VFF    2X0.75mm² 7A125V",
+						"VCTF   2X0.75mm² 7A125V",
+						"VCTFK  2X0.75mm² 7A125V"
+				]
+			}
+		],
+		"cable":[{
+			"name":"Japan power cable",
+			"standard":"JIS C 3306",
+			"model":["VFF","VCTFK","VCTF"],
+			"currentVoltage":["300V"],
+			"temperature":"75°C",
+			"application":["Housing electrical instruments and light"],
+			"modelParams":[
+				{
+					"name":"VFF",
+					"img":["VFF.png"],
+					"others":[{
+						"core":"2",
+						"section(mm²)":"0.5",
+						"structure(No./mm)":"20/0.18",
+						"Insulation thickness(mm)":"0.8",
+						"Jacket thickness(mm)":"",
+						"OD(mm)":"2.5×5.0"
+					},
+					{
+						"core":"2",
+						"section(mm²)":"0.75",
+						"structure(No./mm)":"30/0.18",
+						"Insulation thickness(mm)":"0.8",
+						"Jacket thickness(mm)":"",
+						"OD(mm)":"2.7×5.4"
+					},
+					{
+						"core":"2",
+						"section(mm²)":"1.25",
+						"structure(No./mm)":"50/0.18",
+						"Insulation thickness(mm)":"0.8",
+						"Jacket thickness(mm)":"",
+						"OD(mm)":"3.1×6.2"
+					}]
+				},
+				{
+					"name":"VCTFK",
+					"img":["VCTFK.png"],
+					"others":[{
+						"core":"2",
+						"section(mm²)":"0.75",
+						"structure(No./mm)":"30/0.18",
+						"Insulation thickness(mm)":"0.6",
+						"Jacket thickness(mm)":"1.0",
+						"OD(mm)":"4.2×6.5"
+					},
+					{
+						"core":"2",
+						"section(mm²)":"1.25",
+						"structure(No./mm)":"50/0.18",
+						"Insulation thickness(mm)":"0.6",
+						"Jacket thickness(mm)":"1.0",
+						"OD(mm)":"4.7x7.4"
+					}]
+				},
+				{
+					"name":"VCTF",
+					"img":["VCTF.png"],
+					"others":[{
+						"core":"2",
+						"section(mm²)":"0.75",
+						"structure(No./mm)":"30/0.18",
+						"Insulation thickness(mm)":"0.6",
+						"Jacket thickness(mm)":"1.0",
+						"OD(mm)":"6.6"
+					},
+					{
+						"core":"2",
+						"section(mm²)":"1.25",
+						"structure(No./mm)":"50/0.18",
+						"Insulation thickness(mm)":"0.6",
+						"Jacket thickness(mm)":"1.0",
+						"OD(mm)":"7.4"
+					},
+					{
+						"core":"3",
+						"section(mm²)":"0.75",
+						"structure(No./mm)":"30/0.18",
+						"Insulation thickness(mm)":"0.6",
+						"Jacket thickness(mm)":"1.0",
+						"OD(mm)":"7.0"
+					},
+					{
+						"core":"3",
+						"section(mm²)":"1.25",
+						"structure(No./mm)":"50/0.18",
+						"Insulation thickness(mm)":"0.6",
+						"Jacket thickness(mm)":"1.0",
+						"OD(mm)":"8.5"
+					}]
+				}]
+			}]
+	},
+	{
+		"id":"06",
+		"name":"ISU power cord",
+		"plugs":[
+			{
+				"drawing":"ISUpowercord-1-drawing.png",
+				"picture":"ISUpowercord-1-picture.png",
+				"cabels":[
+						"H03VV -F  3G0.75mm²",
+						"H05VV -F  3G0.75mm²",
+						"H05VV -F  3G1.0mm²",
+						"H05VV -F  3G1.5mm²"
+				]
+			},
+			{
+				"drawing":"ISUpowercord-2-drawing.png",
+				"picture":"ISUpowercord-2-picture.png",
+				"cabels":[
+						"H03VV -F  3G0.75mm²",
+						"H05VV -F  3G0.75mm²",
+						"H05VV -F  3G1.0mm²",
+						"H05VV -F  3G1.5mm²"
+				]
+			},
+			{
+				"drawing":"ISUpowercord-3-drawing.png",
+				"picture":"ISUpowercord-3-picture.png",
+				"cabels":[
+						"H03VV-F  3G0.5mm²",
+						"H03VV-F  3G0.75mm²",
+						"H05VV-F  3G0.75mm²",
+						"H05VV-F  3G1.0mm²",
+						"H05VV-F  3G1.5mm²"
+				]
+			}
+		],
+		"cable":[{
+			"name":"UK power cable",
+			"standard":"VDE0281",
+			"model":["H03VV-F","H05VV-F"],
+			"currentVoltage":["H03 300/300V","H05 300/500V"],
+			"temperature":"",
+			"application":["Housing electrical instruments and light"],
+			"modelParams":[
+				{
+					"name":"H03VV-F",
+					"img":[""],
+					"others":[{
+						"core":"2",
+						"section(mm²)":"0.5",
+						"structure(No./mm)":"28/0.15",
+						"Insulation thickness(mm)":"0.5",
+						"Jacket thickness(mm)":"0.5",
+						"OD(mm)":"3.3X5.4"
+					},
+					{
+						"core":"2",
+						"section(mm²)":"0.5",
+						"structure(No./mm)":"28/0.15",
+						"Insulation thickness(mm)":"0.5",
+						"Jacket thickness(mm)":"0.5",
+						"OD(mm)":"5.4"
+					},
+					{
+						"core":"2",
+						"section(mm²)":"0.75",
+						"structure(No./mm)":"42/0.15",
+						"Insulation thickness(mm)":"0.5",
+						"Jacket thickness(mm)":"0.5",
+						"OD(mm)":"3.4X5.6"
+					},
+					{
+						"core":"2",
+						"section(mm²)":"0.75",
+						"structure(No./mm)":"42/0.15",
+						"Insulation thickness(mm)":"0.5",
+						"Jacket thickness(mm)":"0.5",
+						"OD(mm)":"5.6"
+					},
+					{
+						"core":"3",
+						"section(mm²)":"0.5",
+						"structure(No./mm)":"28/0.15",
+						"Insulation thickness(mm)":"0.5",
+						"Jacket thickness(mm)":"0.5",
+						"OD(mm)":"5.6"
+					},
+					{
+						"core":"3",
+						"section(mm²)":"0.75",
+						"structure(No./mm)":"42/0.15",
+						"Insulation thickness(mm)":"0.5",
+						"Jacket thickness(mm)":"0.5",
+						"OD(mm)":"6.1"
+					}]
+				},
+				{
+					"name":"H05VV-F",
+					"img":[""],
+					"others":[{
+						"core":"2",
+						"section(mm²)":"0.75",
+						"structure(No./mm)":"42/0.15",
+						"Insulation thickness(mm)":"0.6",
+						"Jacket thickness(mm)":"0.8",
+						"OD(mm)":"6.5"
+					},
+					{
+						"core":"2",
+						"section(mm²)":"0.75",
+						"structure(No./mm)":"42/0.15",
+						"Insulation thickness(mm)":"0.6",
+						"Jacket thickness(mm)":"0.8",
+						"OD(mm)":"4.1X6.5"
+					},
+					{
+						"core":"2",
+						"section(mm²)":"1.0",
+						"structure(No./mm)":"32/0.2",
+						"Insulation thickness(mm)":"0.6",
+						"Jacket thickness(mm)":"0.8",
+						"OD(mm)":"6.7"
+					},
+					{
+						"core":"2",
+						"section(mm²)":"1.0",
+						"structure(No./mm)":"32/0.2",
+						"Insulation thickness(mm)":"0.6",
+						"Jacket thickness(mm)":"0.8",
+						"OD(mm)":"4.3X6.9"
+					},
+					{
+						"core":"2",
+						"section(mm²)":"1.5",
+						"structure(No./mm)":"48/0.2",
+						"Insulation thickness(mm)":"0.8",
+						"Jacket thickness(mm)":"0.8",
+						"OD(mm)":"7.7"
+					},
+					{
+						"core":"3",
+						"section(mm²)":"0.75",
+						"structure(No./mm)":"42/0.15",
+						"Insulation thickness(mm)":"0.6",
+						"Jacket thickness(mm)":"0.8",
+						"OD(mm)":"6.8"
+					},
+					{
+						"core":"3",
+						"section(mm²)":"1.0",
+						"structure(No./mm)":"32/0.2",
+						"Insulation thickness(mm)":"0.6",
+						"Jacket thickness(mm)":"0.8",
+						"OD(mm)":"7.3"
+					},
+					{
+						"core":"3",
+						"section(mm²)":"1.5",
+						"structure(No./mm)":"48/0.15",
+						"Insulation thickness(mm)":"0.8",
+						"Jacket thickness(mm)":"0.9",
+						"OD(mm)":"8.4"
+					}]
+				}]
+			}]
+	},
+	{
+		"id":"07",
+		"name":"Australia power cord",
+		"plugs":[
+			{
+				"drawing":"Australiapowercord-1-drawing.png",
+				"picture":"Australiapowercord-1-picture.png",
+				"cabels":[
+						"VFF    2X0.75mm² 7A125V",
+						"VCTF   2X0.75mm² 7A125V",
+						"VCTFK  2X0.75mm² 7A125V"
+				]
+			}
+		],
+		"cable":[{
+			"name":"Europe power cable",
+			"standard":"DIN VDE0281",
+			"model":["H03VV-F","H05VV-F"],
+			"currentVoltage":["H03 300/300V","H05 300/500V"],
+			"application":["Housing electrical instruments and lights"],
+			"modelParams":[
+				{
+				"name":"H03VV-F",
+				"img":["H03VV-F.png"],
+				"others":[{
+						"core":"2",
+						"section(mm²)":"0.5",
+						"structure(No./mm)":"28/0.15",
+						"Insulation thickness(mm)":"0.5",
+						"Jacket thickness(mm)":"0.5",
+						"OD(mm)":"3.3X5.4"
+					},
+					{
+						"core":"2",
+						"section(mm²)":"0.5",
+						"structure(No./mm)":"28/0.15",
+						"Insulation thickness(mm)":"0.5",
+						"Jacket thickness(mm)":"0.5",
+						"OD(mm)":"5.4"
+					},
+					{
+						"core":"2",
+						"section(mm²)":"0.75",
+						"structure(No./mm)":"42/0.15",
+						"Insulation thickness(mm)":"0.5",
+						"Jacket thickness(mm)":"0.5",
+						"OD(mm)":"3.4X5.6"
+					},
+					{
+						"core":"2",
+						"section(mm²)":"0.75",
+						"structure(No./mm)":"42/0.15",
+						"Insulation thickness(mm)":"0.5",
+						"Jacket thickness(mm)":"0.5",
+						"OD(mm)":"5.6"
+					},
+					{
+						"core":"3",
+						"section(mm²)":"0.5",
+						"structure(No./mm)":"28/0.15",
+						"Insulation thickness(mm)":"0.5",
+						"Jacket thickness(mm)":"0.5",
+						"OD(mm)":"5.6"
+					},
+					{
+						"core":"3",
+						"section(mm²)":"0.75",
+						"structure(No./mm)":"42/0.15",
+						"Insulation thickness(mm)":"0.5",
+						"Jacket thickness(mm)":"0.5",
+						"OD(mm)":"6.1"
+					}]
+				},
+				{
+					"name":"H05VV-F",
+					"img":["H05VV-F.png"],
+					"others":[{
+						"core":"2",
+						"section(mm²)":"0.75",
+						"structure(No./mm)":"42/0.15",
+						"Insulation thickness(mm)":"0.6",
+						"Jacket thickness(mm)":"0.8",
+						"OD(mm)":"6.5"
+					},
+					{
+						"core":"2",
+						"section(mm²)":"0.75",
+						"structure(No./mm)":"42/0.15",
+						"Insulation thickness(mm)":"0.6",
+						"Jacket thickness(mm)":"0.8",
+						"OD(mm)":"4.1X6.5"
+					},
+					{
+						"core":"2",
+						"section(mm²)":"1.0",
+						"structure(No./mm)":"32/0.2",
+						"Insulation thickness(mm)":"0.6",
+						"Jacket thickness(mm)":"0.8",
+						"OD(mm)":"6.7"
+					},
+					{
+						"core":"2",
+						"section(mm²)":"1.0",
+						"structure(No./mm)":"32/0.2",
+						"Insulation thickness(mm)":"0.6",
+						"Jacket thickness(mm)":"0.8",
+						"OD(mm)":"4.3X6.9"
+					},
+					{
+						"core":"2",
+						"section(mm²)":"1.5",
+						"structure(No./mm)":"48/0.2",
+						"Insulation thickness(mm)":"0.8",
+						"Jacket thickness(mm)":"0.8",
+						"OD(mm)":"7.7"
+					},
+					{
+						"core":"3",
+						"section(mm²)":"0.75",
+						"structure(No./mm)":"42/0.15",
+						"Insulation thickness(mm)":"0.6",
+						"Jacket thickness(mm)":"0.8",
+						"OD(mm)":"6.8"
+					},
+					{
+						"core":"3",
+						"section(mm²)":"1.0",
+						"structure(No./mm)":"32/0.2",
+						"Insulation thickness(mm)":"0.6",
+						"Jacket thickness(mm)":"0.8",
+						"OD(mm)":"7.3"
+					},
+					{
+						"core":"3",
+						"section(mm²)":"1.5",
+						"structure(No./mm)":"48/0.15",
+						"Insulation thickness(mm)":"0.8",
+						"Jacket thickness(mm)":"0.9",
+						"OD(mm)":"8.4"
+					}]
+				}]
+		},
+		{
+			"name":"Soft jacket cable",
+			"standard":"GB5023.5-1997",
+			"model":["227 IEC 52(RVV)","227 IEC 53(RVV)"],
+			"currentVoltage":["227 IEC 52(RVV)300/300V","227 IEC 53(RVV)300/500V"],
+			"application":["227 IEC 52(RVV) housing electrical instruments and light","227 IEC 53(RVV) electrical instruments and light"],
+			"modelParams":[
+				{
+					"name":"227 IEC 52(RVV)",
+					"img":["227-IEC-52(RVV)-flat.png","227-IEC-52(RVV)-round1.png","227-IEC-52(RVV)-round2.png"],
+					"others":[{
+						"core":"2",
+						"section(mm²)":"0.5",
+						"structure(No./mm)":"28/0.15",
+						"Insulation thickness(mm)":"0.5",
+						"Jacket thickness(mm)":"0.6",
+						"OD(mm)":"5.3"
+					},
+					{
+						"core":"2",
+						"section(mm²)":"0.5",
+						"structure(No./mm)":"28/0.15",
+						"Insulation thickness(mm)":"0.5",
+						"Jacket thickness(mm)":"0.6",
+						"OD(mm)":"3.26X5.3"
+					},
+					{
+						"core":"2",
+						"section(mm²)":"0.75",
+						"structure(No./mm)":"42/0.15",
+						"Insulation thickness(mm)":"0.5",
+						"Jacket thickness(mm)":"0.6",
+						"OD(mm)":"5.7"
+					},
+					{
+						"core":"2",
+						"section(mm²)":"0.75",
+						"structure(No./mm)":"42/0.15",
+						"Insulation thickness(mm)":"0.5",
+						"Jacket thickness(mm)":"0.6",
+						"OD(mm)":"3.4X5.8"
+					},
+					{
+						"core":"3",
+						"section(mm²)":"0.5",
+						"structure(No./mm)":"28/0.15",
+						"Insulation thickness(mm)":"0.5",
+						"Jacket thickness(mm)":"0.6",
+						"OD(mm)":"5.6"
+					},
+					{
+						"core":"3",
+						"section(mm²)":"0.75",
+						"structure(No./mm)":"42/0.15",
+						"Insulation thickness(mm)":"0.5",
+						"Jacket thickness(mm)":"0.6",
+						"OD(mm)":"6.05"
+					}]
+				},
+				{
+					"name":"227 IEC 53(RVV)",
+					"img":["227-IEC-53(RVV)-flat.png","227-IEC-53(RVV)-round1.png","227-IEC-53(RVV)-round2.png"],
+					"others":[{
+						"core":"2",
+						"section(mm²)":"0.75",
+						"structure(No./mm)":"42/0.15",
+						"Insulation thickness(mm)":"0.6",
+						"Jacket thickness(mm)":"0.8",
+						"OD(mm)":"6.5"
+					},
+					{
+						"core":"2",
+						"section(mm²)":"0.75",
+						"structure(No./mm)":"42/0.15",
+						"Insulation thickness(mm)":"0.6",
+						"Jacket thickness(mm)":"0.8",
+						"OD(mm)":"4.1X6.5"
+					},
+					{
+						"core":"2",
+						"section(mm²)":"1.0",
+						"structure(No./mm)":"32/0.2",
+						"Insulation thickness(mm)":"0.6",
+						"Jacket thickness(mm)":"0.8",
+						"OD(mm)":"6.9"
+					},
+					{
+						"core":"2",
+						"section(mm²)":"1.5",
+						"structure(No./mm)":"48/0.15",
+						"Insulation thickness(mm)":"0.7",
+						"Jacket thickness(mm)":"0.8",
+						"OD(mm)":"7.7"
+					},
+					{
+						"core":"3",
+						"section(mm²)":"0.75",
+						"structure(No./mm)":"42/0.15",
+						"Insulation thickness(mm)":"0.6",
+						"Jacket thickness(mm)":"0.8",
+						"OD(mm)":"6.9"
+					},
+					{
+						"core":"3",
+						"section(mm²)":"1.0",
+						"structure(No./mm)":"32/0.15",
+						"Insulation thickness(mm)":"0.6",
+						"Jacket thickness(mm)":"0.8",
+						"OD(mm)":"7.4"
+					},
+					{
+						"core":"3",
+						"section(mm²)":"1.5",
+						"structure(No./mm)":"48/0.15",
+						"Insulation thickness(mm)":"0.7",
+						"Jacket thickness(mm)":"0.9",
+						"OD(mm)":"8.5"
+					}]
+				}]
+			}]
+	},
+	{
+		"id":"08",
+		"name":"C13-C14 Power cord",
+		"plugs":[
+			{
+				"drawing":"C13-C14powercord-1-drawing.png",
+				"picture":"C13-C14powercord-1-picture.png",
+				"cabels":[
+					"227IEC52(RVV) 3X0.75mm² 10A250V",
+					"227IEC53(RVV) 3X0.75mm² 10A250V",
+					"227IEC53(RVV) 3X1.0mm² 10A250V",
+					"H03VV -F 3G0.75mm² 6A250V",
+					"H05VV -F 3G0.75mm² 10A250V",
+					"H05VV -F 3G1.0mm² 10A250V"]
+			}],
+		"cable":[{
+			"name":"Europe power cable",
+			"standard":"DIN VDE0281",
+			"model":["H03VV-F","H05VV-F"],
+			"currentVoltage":["H03 300/300V","H05 300/500V"],
+			"application":["Housing electrical instruments and lights"],
+			"modelParams":[
+				{
+				"name":"H03VV-F",
+				"img":["H03VV-F.png"],
+				"others":[{
+						"core":"2",
+						"section(mm²)":"0.5",
+						"structure(No./mm)":"28/0.15",
+						"Insulation thickness(mm)":"0.5",
+						"Jacket thickness(mm)":"0.5",
+						"OD(mm)":"3.3X5.4"
+					},
+					{
+						"core":"2",
+						"section(mm²)":"0.5",
+						"structure(No./mm)":"28/0.15",
+						"Insulation thickness(mm)":"0.5",
+						"Jacket thickness(mm)":"0.5",
+						"OD(mm)":"5.4"
+					},
+					{
+						"core":"2",
+						"section(mm²)":"0.75",
+						"structure(No./mm)":"42/0.15",
+						"Insulation thickness(mm)":"0.5",
+						"Jacket thickness(mm)":"0.5",
+						"OD(mm)":"3.4X5.6"
+					},
+					{
+						"core":"2",
+						"section(mm²)":"0.75",
+						"structure(No./mm)":"42/0.15",
+						"Insulation thickness(mm)":"0.5",
+						"Jacket thickness(mm)":"0.5",
+						"OD(mm)":"5.6"
+					},
+					{
+						"core":"3",
+						"section(mm²)":"0.5",
+						"structure(No./mm)":"28/0.15",
+						"Insulation thickness(mm)":"0.5",
+						"Jacket thickness(mm)":"0.5",
+						"OD(mm)":"5.6"
+					},
+					{
+						"core":"3",
+						"section(mm²)":"0.75",
+						"structure(No./mm)":"42/0.15",
+						"Insulation thickness(mm)":"0.5",
+						"Jacket thickness(mm)":"0.5",
+						"OD(mm)":"6.1"
+					}]
+				},
+				{
+					"name":"H05VV-F",
+					"img":["H05VV-F.png"],
+					"others":[{
+						"core":"2",
+						"section(mm²)":"0.75",
+						"structure(No./mm)":"42/0.15",
+						"Insulation thickness(mm)":"0.6",
+						"Jacket thickness(mm)":"0.8",
+						"OD(mm)":"6.5"
+					},
+					{
+						"core":"2",
+						"section(mm²)":"0.75",
+						"structure(No./mm)":"42/0.15",
+						"Insulation thickness(mm)":"0.6",
+						"Jacket thickness(mm)":"0.8",
+						"OD(mm)":"4.1X6.5"
+					},
+					{
+						"core":"2",
+						"section(mm²)":"1.0",
+						"structure(No./mm)":"32/0.2",
+						"Insulation thickness(mm)":"0.6",
+						"Jacket thickness(mm)":"0.8",
+						"OD(mm)":"6.7"
+					},
+					{
+						"core":"2",
+						"section(mm²)":"1.0",
+						"structure(No./mm)":"32/0.2",
+						"Insulation thickness(mm)":"0.6",
+						"Jacket thickness(mm)":"0.8",
+						"OD(mm)":"4.3X6.9"
+					},
+					{
+						"core":"2",
+						"section(mm²)":"1.5",
+						"structure(No./mm)":"48/0.2",
+						"Insulation thickness(mm)":"0.8",
+						"Jacket thickness(mm)":"0.8",
+						"OD(mm)":"7.7"
+					},
+					{
+						"core":"3",
+						"section(mm²)":"0.75",
+						"structure(No./mm)":"42/0.15",
+						"Insulation thickness(mm)":"0.6",
+						"Jacket thickness(mm)":"0.8",
+						"OD(mm)":"6.8"
+					},
+					{
+						"core":"3",
+						"section(mm²)":"1.0",
+						"structure(No./mm)":"32/0.2",
+						"Insulation thickness(mm)":"0.6",
+						"Jacket thickness(mm)":"0.8",
+						"OD(mm)":"7.3"
+					},
+					{
+						"core":"3",
+						"section(mm²)":"1.5",
+						"structure(No./mm)":"48/0.15",
+						"Insulation thickness(mm)":"0.8",
+						"Jacket thickness(mm)":"0.9",
+						"OD(mm)":"8.4"
+					}]
+				}]
+		},
+		{
+			"name":"Soft jacket cable",
+			"standard":"GB5023.5-1997",
+			"model":["227 IEC 52(RVV)","227 IEC 53(RVV)"],
+			"currentVoltage":["227 IEC 52(RVV)300/300V","227 IEC 53(RVV)300/500V"],
+			"application":["227 IEC 52(RVV) housing electrical instruments and light","227 IEC 53(RVV) electrical instruments and light"],
+			"modelParams":[
+				{
+					"name":"227 IEC 52(RVV)",
+					"img":["227-IEC-52(RVV)-flat.png","227-IEC-52(RVV)-round1.png","227-IEC-52(RVV)-round2.png"],
+					"others":[{
+						"core":"2",
+						"section(mm²)":"0.5",
+						"structure(No./mm)":"28/0.15",
+						"Insulation thickness(mm)":"0.5",
+						"Jacket thickness(mm)":"0.6",
+						"OD(mm)":"5.3"
+					},
+					{
+						"core":"2",
+						"section(mm²)":"0.5",
+						"structure(No./mm)":"28/0.15",
+						"Insulation thickness(mm)":"0.5",
+						"Jacket thickness(mm)":"0.6",
+						"OD(mm)":"3.26X5.3"
+					},
+					{
+						"core":"2",
+						"section(mm²)":"0.75",
+						"structure(No./mm)":"42/0.15",
+						"Insulation thickness(mm)":"0.5",
+						"Jacket thickness(mm)":"0.6",
+						"OD(mm)":"5.7"
+					},
+					{
+						"core":"2",
+						"section(mm²)":"0.75",
+						"structure(No./mm)":"42/0.15",
+						"Insulation thickness(mm)":"0.5",
+						"Jacket thickness(mm)":"0.6",
+						"OD(mm)":"3.4X5.8"
+					},
+					{
+						"core":"3",
+						"section(mm²)":"0.5",
+						"structure(No./mm)":"28/0.15",
+						"Insulation thickness(mm)":"0.5",
+						"Jacket thickness(mm)":"0.6",
+						"OD(mm)":"5.6"
+					},
+					{
+						"core":"3",
+						"section(mm²)":"0.75",
+						"structure(No./mm)":"42/0.15",
+						"Insulation thickness(mm)":"0.5",
+						"Jacket thickness(mm)":"0.6",
+						"OD(mm)":"6.05"
+					}]
+				},
+				{
+					"name":"227 IEC 53(RVV)",
+					"img":["227-IEC-53(RVV)-flat.png","227-IEC-53(RVV)-round1.png","227-IEC-53(RVV)-round2.png"],
+					"others":[{
+						"core":"2",
+						"section(mm²)":"0.75",
+						"structure(No./mm)":"42/0.15",
+						"Insulation thickness(mm)":"0.6",
+						"Jacket thickness(mm)":"0.8",
+						"OD(mm)":"6.5"
+					},
+					{
+						"core":"2",
+						"section(mm²)":"0.75",
+						"structure(No./mm)":"42/0.15",
+						"Insulation thickness(mm)":"0.6",
+						"Jacket thickness(mm)":"0.8",
+						"OD(mm)":"4.1X6.5"
+					},
+					{
+						"core":"2",
+						"section(mm²)":"1.0",
+						"structure(No./mm)":"32/0.2",
+						"Insulation thickness(mm)":"0.6",
+						"Jacket thickness(mm)":"0.8",
+						"OD(mm)":"6.9"
+					},
+					{
+						"core":"2",
+						"section(mm²)":"1.5",
+						"structure(No./mm)":"48/0.15",
+						"Insulation thickness(mm)":"0.7",
+						"Jacket thickness(mm)":"0.8",
+						"OD(mm)":"7.7"
+					},
+					{
+						"core":"3",
+						"section(mm²)":"0.75",
+						"structure(No./mm)":"42/0.15",
+						"Insulation thickness(mm)":"0.6",
+						"Jacket thickness(mm)":"0.8",
+						"OD(mm)":"6.9"
+					},
+					{
+						"core":"3",
+						"section(mm²)":"1.0",
+						"structure(No./mm)":"32/0.15",
+						"Insulation thickness(mm)":"0.6",
+						"Jacket thickness(mm)":"0.8",
+						"OD(mm)":"7.4"
+					},
+					{
+						"core":"3",
+						"section(mm²)":"1.5",
+						"structure(No./mm)":"48/0.15",
+						"Insulation thickness(mm)":"0.7",
+						"Jacket thickness(mm)":"0.9",
+						"OD(mm)":"8.5"
+					}]
+				}]
+			}]
+	},
+	{
+		"id":"09",
+		"name":"C5-C14 Power cord",
+		"plugs":[
+			{
+				"drawing":"C5-C14powercord-1-drawing.png",
+				"picture":"C5-C14powercord-1-picture.png",
+				"cabels":[
+					"227IEC52(RVV) 3X0.75mm² 10A250V",
+					"227IEC53(RVV) 3X0.75mm² 10A250V",
+					"227IEC53(RVV) 3X1.0mm² 10A250V",
+					"H03VV -F 3G0.75mm² 6A250V",
+					"H05VV -F 3G0.75mm² 10A250V",
+					"H05VV -F 3G1.0mm² 10A250V"]
+			}],
+		"cable":[{
+			"name":"Europe power cable",
+			"standard":"DIN VDE0281",
+			"model":["H03VV-F","H05VV-F"],
+			"currentVoltage":["H03 300/300V","H05 300/500V"],
+			"application":["Housing electrical instruments and lights"],
+			"modelParams":[
+				{
+				"name":"H03VV-F",
+				"img":["H03VV-F.png"],
+				"others":[{
+						"core":"2",
+						"section(mm²)":"0.5",
+						"structure(No./mm)":"28/0.15",
+						"Insulation thickness(mm)":"0.5",
+						"Jacket thickness(mm)":"0.5",
+						"OD(mm)":"3.3X5.4"
+					},
+					{
+						"core":"2",
+						"section(mm²)":"0.5",
+						"structure(No./mm)":"28/0.15",
+						"Insulation thickness(mm)":"0.5",
+						"Jacket thickness(mm)":"0.5",
+						"OD(mm)":"5.4"
+					},
+					{
+						"core":"2",
+						"section(mm²)":"0.75",
+						"structure(No./mm)":"42/0.15",
+						"Insulation thickness(mm)":"0.5",
+						"Jacket thickness(mm)":"0.5",
+						"OD(mm)":"3.4X5.6"
+					},
+					{
+						"core":"2",
+						"section(mm²)":"0.75",
+						"structure(No./mm)":"42/0.15",
+						"Insulation thickness(mm)":"0.5",
+						"Jacket thickness(mm)":"0.5",
+						"OD(mm)":"5.6"
+					},
+					{
+						"core":"3",
+						"section(mm²)":"0.5",
+						"structure(No./mm)":"28/0.15",
+						"Insulation thickness(mm)":"0.5",
+						"Jacket thickness(mm)":"0.5",
+						"OD(mm)":"5.6"
+					},
+					{
+						"core":"3",
+						"section(mm²)":"0.75",
+						"structure(No./mm)":"42/0.15",
+						"Insulation thickness(mm)":"0.5",
+						"Jacket thickness(mm)":"0.5",
+						"OD(mm)":"6.1"
+					}]
+				},
+				{
+					"name":"H05VV-F",
+					"img":["H05VV-F.png"],
+					"others":[{
+						"core":"2",
+						"section(mm²)":"0.75",
+						"structure(No./mm)":"42/0.15",
+						"Insulation thickness(mm)":"0.6",
+						"Jacket thickness(mm)":"0.8",
+						"OD(mm)":"6.5"
+					},
+					{
+						"core":"2",
+						"section(mm²)":"0.75",
+						"structure(No./mm)":"42/0.15",
+						"Insulation thickness(mm)":"0.6",
+						"Jacket thickness(mm)":"0.8",
+						"OD(mm)":"4.1X6.5"
+					},
+					{
+						"core":"2",
+						"section(mm²)":"1.0",
+						"structure(No./mm)":"32/0.2",
+						"Insulation thickness(mm)":"0.6",
+						"Jacket thickness(mm)":"0.8",
+						"OD(mm)":"6.7"
+					},
+					{
+						"core":"2",
+						"section(mm²)":"1.0",
+						"structure(No./mm)":"32/0.2",
+						"Insulation thickness(mm)":"0.6",
+						"Jacket thickness(mm)":"0.8",
+						"OD(mm)":"4.3X6.9"
+					},
+					{
+						"core":"2",
+						"section(mm²)":"1.5",
+						"structure(No./mm)":"48/0.2",
+						"Insulation thickness(mm)":"0.8",
+						"Jacket thickness(mm)":"0.8",
+						"OD(mm)":"7.7"
+					},
+					{
+						"core":"3",
+						"section(mm²)":"0.75",
+						"structure(No./mm)":"42/0.15",
+						"Insulation thickness(mm)":"0.6",
+						"Jacket thickness(mm)":"0.8",
+						"OD(mm)":"6.8"
+					},
+					{
+						"core":"3",
+						"section(mm²)":"1.0",
+						"structure(No./mm)":"32/0.2",
+						"Insulation thickness(mm)":"0.6",
+						"Jacket thickness(mm)":"0.8",
+						"OD(mm)":"7.3"
+					},
+					{
+						"core":"3",
+						"section(mm²)":"1.5",
+						"structure(No./mm)":"48/0.15",
+						"Insulation thickness(mm)":"0.8",
+						"Jacket thickness(mm)":"0.9",
+						"OD(mm)":"8.4"
+					}]
+				}]
+		},
+		{
+			"name":"Soft jacket cable",
+			"standard":"GB5023.5-1997",
+			"model":["227 IEC 52(RVV)","227 IEC 53(RVV)"],
+			"currentVoltage":["227 IEC 52(RVV)300/300V","227 IEC 53(RVV)300/500V"],
+			"application":["227 IEC 52(RVV) housing electrical instruments and light","227 IEC 53(RVV) electrical instruments and light"],
+			"modelParams":[
+				{
+					"name":"227 IEC 52(RVV)",
+					"img":["227-IEC-52(RVV)-flat.png","227-IEC-52(RVV)-round1.png","227-IEC-52(RVV)-round2.png"],
+					"others":[{
+						"core":"2",
+						"section(mm²)":"0.5",
+						"structure(No./mm)":"28/0.15",
+						"Insulation thickness(mm)":"0.5",
+						"Jacket thickness(mm)":"0.6",
+						"OD(mm)":"5.3"
+					},
+					{
+						"core":"2",
+						"section(mm²)":"0.5",
+						"structure(No./mm)":"28/0.15",
+						"Insulation thickness(mm)":"0.5",
+						"Jacket thickness(mm)":"0.6",
+						"OD(mm)":"3.26X5.3"
+					},
+					{
+						"core":"2",
+						"section(mm²)":"0.75",
+						"structure(No./mm)":"42/0.15",
+						"Insulation thickness(mm)":"0.5",
+						"Jacket thickness(mm)":"0.6",
+						"OD(mm)":"5.7"
+					},
+					{
+						"core":"2",
+						"section(mm²)":"0.75",
+						"structure(No./mm)":"42/0.15",
+						"Insulation thickness(mm)":"0.5",
+						"Jacket thickness(mm)":"0.6",
+						"OD(mm)":"3.4X5.8"
+					},
+					{
+						"core":"3",
+						"section(mm²)":"0.5",
+						"structure(No./mm)":"28/0.15",
+						"Insulation thickness(mm)":"0.5",
+						"Jacket thickness(mm)":"0.6",
+						"OD(mm)":"5.6"
+					},
+					{
+						"core":"3",
+						"section(mm²)":"0.75",
+						"structure(No./mm)":"42/0.15",
+						"Insulation thickness(mm)":"0.5",
+						"Jacket thickness(mm)":"0.6",
+						"OD(mm)":"6.05"
+					}]
+				},
+				{
+					"name":"227 IEC 53(RVV)",
+					"img":["227-IEC-53(RVV)-flat.png","227-IEC-53(RVV)-round1.png","227-IEC-53(RVV)-round2.png"],
+					"others":[{
+						"core":"2",
+						"section(mm²)":"0.75",
+						"structure(No./mm)":"42/0.15",
+						"Insulation thickness(mm)":"0.6",
+						"Jacket thickness(mm)":"0.8",
+						"OD(mm)":"6.5"
+					},
+					{
+						"core":"2",
+						"section(mm²)":"0.75",
+						"structure(No./mm)":"42/0.15",
+						"Insulation thickness(mm)":"0.6",
+						"Jacket thickness(mm)":"0.8",
+						"OD(mm)":"4.1X6.5"
+					},
+					{
+						"core":"2",
+						"section(mm²)":"1.0",
+						"structure(No./mm)":"32/0.2",
+						"Insulation thickness(mm)":"0.6",
+						"Jacket thickness(mm)":"0.8",
+						"OD(mm)":"6.9"
+					},
+					{
+						"core":"2",
+						"section(mm²)":"1.5",
+						"structure(No./mm)":"48/0.15",
+						"Insulation thickness(mm)":"0.7",
+						"Jacket thickness(mm)":"0.8",
+						"OD(mm)":"7.7"
+					},
+					{
+						"core":"3",
+						"section(mm²)":"0.75",
+						"structure(No./mm)":"42/0.15",
+						"Insulation thickness(mm)":"0.6",
+						"Jacket thickness(mm)":"0.8",
+						"OD(mm)":"6.9"
+					},
+					{
+						"core":"3",
+						"section(mm²)":"1.0",
+						"structure(No./mm)":"32/0.15",
+						"Insulation thickness(mm)":"0.6",
+						"Jacket thickness(mm)":"0.8",
+						"OD(mm)":"7.4"
+					},
+					{
+						"core":"3",
+						"section(mm²)":"1.5",
+						"structure(No./mm)":"48/0.15",
+						"Insulation thickness(mm)":"0.7",
+						"Jacket thickness(mm)":"0.9",
+						"OD(mm)":"8.5"
+					}]
+				}]
+			}]
+	}
+
+]

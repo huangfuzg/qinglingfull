@@ -1,0 +1,85 @@
+[{
+	"id":"00",
+	"name":"QL-101",
+
+	"parameter": [
+		{"Model":"QL-C101"},
+		{"Name":"USB travel charge adapter"},
+		{"Size":"64*53*53MM"},
+		{"Weight":"120g/piece"},
+		{"Color":"Black/White"},
+		{"Metal Material":"copper"},
+		{"Plastic Material":"ABS+PC"},
+		{"Current Voltage":"100~220V 6.3A"},
+		{"Watt":"110V/65W,220V/1300W"},
+		{"Plug Type":"China、USA、Europe、UK、Australia"},
+		{"Application District":"More than 150 countries"},
+		{"Certification":"CE、FCC、ROHS"},
+		{"USB Output":"5V/1000mA and 5V/2100mA"},
+		{"iPhone Output":"Mobile Phone,iPad,MP3,MP4,Digital Camera"},
+		{"Produce Ability":"100000pcs/Month"}]
+ },
+ {
+	"id":"01",
+	"name":"QL-C102",
+
+	"parameter": [
+		{"Model":"QL-C102"},
+		{"Name":"USB travel charge adapter"},
+		{"Size":"64*50*70MM"},
+		{"Weight":"120g/piece"},
+		{"Color":"Black/White"},
+		{"Metal Material":"copper"},
+		{"Plastic Material":"ABS+PC"},
+		{"Current Voltage":"100~264V 6A"},
+		{"Watt":"3000W"},
+		{"Plug Type":"China、Europe、UK"},
+		{"Application District":"More than 150 countries"},
+		{"Certification":"CE、FCC、ROHS"},
+		{"USB Output":"5V/1000mA and 5V/2100mA"},
+		{"iPhone Output":"iPod,iPhone,iPad"},
+		{"Produce Ability":"1000000pcs/Month"}]
+ },
+ {
+	"id":"02",
+	"name":"QL-103",
+
+	"parameter": [
+		{"Model":"QL-103"},
+		{"Name":"USB travel charge adapter"},
+		{"Size":"61*45*56mm"},
+		{"Weight":"106g/piece"},
+		{"Color":"Black/White"},
+		{"Metal Material":"copper"},
+		{"Plastic Material":"ABS+PC"},
+		{"Current Voltage":"100~264V 6A"},
+		{"Watt":"1500W"},
+		{"Plug Type":"China、USA、Europe、UK"},
+		{"Application District":"More than 150 countries"},
+		{"Certification":"CE、FCC、ROHS"},
+		{"USB Output":"5V/1000mA and 5V/2100mA"},
+		{"iPhone Output":"iPod,iPhone,iPad"},
+		{"Produce Ability":"1000000pcs/Month"}]
+ },
+ {
+	"id":"03",
+	"name":"QL-104",
+
+	"parameter": [
+		{"Model":"QL-104"},
+		{"Name":"USB travel charge adapter"},
+		{"Size":"61*45*56mm"},
+		{"Weight":"106g/piece"},
+		{"Color":"Black/White"},
+		{"Metal Material":"copper"},
+		{"Plastic Material":"ABS+PC"},
+		{"Current Voltage":"100~264V 6A"},
+		{"Watt":"1500W"},
+		{"Plug Type":"China、USA、Europe、UK"},
+		{"Application District":"More than 150 countries"},
+		{"Certification":"CE、FCC、ROHS"},
+		{"USB Output":"5V/1000mA and 5V/2100mA"},
+		{"iPhone Output":"iPod,iPhone,iPad"},
+		{"Produce Ability":"1000000pcs/Month"}]
+ }
+]

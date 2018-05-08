@@ -1,0 +1,97 @@
+[{
+	"id":"00",
+	"name":"S/FTP CAT7",
+
+	"imgurl": [
+		"/imgs/network_cable/SFTP CAT7/imgs/1.jpg",
+		"/imgs/network_cable/SFTP CAT7/imgs/2.jpg",
+		"/imgs/network_cable/SFTP CAT7/imgs/3.jpg"],
+
+	"parameter": [""]
+},
+{
+	"id":"01",
+	"name":"S/FTP CAT6",
+
+	"imgurl": [
+		"/imgs/network_cable/SFTP CAT6/imgs/1.jpg",
+		"/imgs/network_cable/SFTP CAT6/imgs/2.jpg",
+		"/imgs/network_cable/SFTP CAT6/imgs/3.jpg"],
+
+	"parameter": ["/imgs/network_cable/SFTP CAT6/parameter/1.jpg"]
+},
+{
+	"id":"02",
+	"name":"UTP CAT6",
+
+	"imgurl": [
+		"/imgs/network_cable/UTP CAT6/imgs/1.jpg",
+		"/imgs/network_cable/UTP CAT6/imgs/2.jpg",
+		"/imgs/network_cable/UTP CAT6/imgs/3.jpg",
+		"/imgs/network_cable/UTP CAT6/imgs/4.jpg"],
+
+	"parameter": ["/imgs/network_cable/UTP CAT6/parameter/1.jpg"]
+},
+{
+	"id":"03",
+	"name":"UTP CAT5E",
+
+	"imgurl": [
+		"/imgs/network_cable/UTP CAT5E/imgs/1.jpg",
+		"/imgs/network_cable/UTP CAT5E/imgs/2.jpg",
+		"/imgs/network_cable/UTP CAT5E/imgs/3.jpg",
+		"/imgs/network_cable/UTP CAT5E/imgs/4.jpg",
+		"/imgs/network_cable/UTP CAT5E/imgs/5.jpg",
+		"/imgs/network_cable/UTP CAT5E/imgs/6.jpg"],
+
+	"parameter": ["/imgs/network_cable/UTP CAT5E/parameter/1.jpg"]
+},
+{
+	"id":"04",
+	"name":"Telephone CAT3",
+
+	"imgurl": [
+		"/imgs/network_cable/Telephone CAT3/imgs/1.jpg",
+		"/imgs/network_cable/Telephone CAT3/imgs/2.jpg"],
+
+	"parameter": ["/imgs/network_cable/Telephone CAT3/parameter/1.jpg"]
+},
+{
+	"id":"05",
+	"name":"UTP CAT6 cable",
+
+	"imgurl": [
+		"/imgs/network_cable/UTP cat6 cable/imgs/1.jpg",
+		"/imgs/network_cable/UTP cat6 cable/imgs/2.jpg"],
+
+	"parameter": ["/imgs/network_cable/UTP cat6 cable/parameter/1.jpg"]
+},
+{
+	"id":"06",
+	"name":"Outdoor waterproof cat6 cable",
+
+	"imgurl": [
+		"/imgs/network_cable/Outdoor waterproof cat6 cable/imgs/1.jpg",
+		"/imgs/network_cable/Outdoor waterproof cat6 cable/imgs/2.png"],
+
+	"parameter": [""]
+},
+{
+	"id":"07",
+	"name":"VGA CABLE",
+
+	"imgurl": [
+		"/imgs/VGA CABLE/imgs/1.jpg"],
+
+	"parameter": [""]
+},
+{
+	"id":"08",
+	"name":"High Temperature Teflon cable wire",
+
+	"imgurl": [
+		"/imgs/network_cable/High Temperature Teflon cable wire/imgs/1.jpg"],
+
+	"parameter": [""]
+}
+]

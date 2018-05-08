@@ -1,0 +1,190 @@
+[{
+	"id":"01",
+	"name":"S/FTP CAT6 PATCH CORD",
+
+	"parameter": [
+		{"Standard":"UL444/CSA-C22,Type CM EIA/TIA-568A EIA/TIA-568B"}, 
+		{"Connector":"RJ45"},
+		{"Wire No":"8P8C"},
+		{"Color":"Optional color"},
+		{"Length":"0.5m/1m/2m/3m/5m/10m/15m"},
+		{"Suit cable":"24awg,4*2/7*0.16mm,4*2*7/0.2mm"},
+		{"Certificate":"CE ROHS Approved"},
+		{"Shield":"single shielding Network cable Mylar tape,Aluminum-Mylar tape"},
+		{"Stretching Resistance":"(max)250N"},
+		{"Impedance":"100 ±15%W @ 1~100MHz"},
+		{"Working Capacitance(Max.)":"5.4nF/100m"},
+		{"Insulation Resistance":"10000MW/km"},
+		{"Operating Temperature":"-40°C-+70°C"},
+		{"Shielding":""}]
+ },
+ {
+	"id":"00",
+	"name":"S/FTP CAT7 PATCH CORD",
+
+	"parameter": [
+		{"Standard":"10GBBASE-T"}, 
+		{"Connector":"RJ45"},
+		{"Wire No":"8P8C"},
+		{"Color":"Optional color"},
+		{"Length":"0.5m/1m/2m/3m/5m/10m/15m"},
+		{"Suit cable":"32awg,28AWG,4*2/7*0.16mm,4*2*7/0.2mm"},
+		{"Certificate":"CE ROHS Approved"},
+		{"Shield":"Nylon Braid Shielded"},
+		{"Stretching Resistance":"(max)250N"},
+		{"Impedance":"100 ±15%W @ 1~100MHz"},
+		{"Working Capacitance(Max.)":"5.4nF/100m"},
+		{"Insulation Resistance":""},
+		{"Operating Temperature":""},
+		{"Shielding":""}]
+ },
+ {
+	"id":"02",
+	"name":"UTP CAT6 PATCH CORD",
+
+	"parameter": [
+		{"Standard":"EIA/TIA-568A EIA/TIA-568B"}, 
+		{"Connector":"RJ45"},
+		{"Wire No":"8P8C"},
+		{"Color":"Optional color"},
+		{"Length":"0.5m/1m/2m/3m/5m/10m/15m"},
+		{"Suit cable":"23awg 24awg,4*2/7*0.16mm,4*2*7/0.2mm"},
+		{"Certificate":"CE ROHS Approved"},
+		{"Shield":""},
+		{"Stretching Resistance":"(max)250N"},
+		{"Impedance":"100 ±15%W @ 1~100MHz"},
+		{"Working Capacitance(Max.)":"5.4nF/100m"},
+		{"Insulation Resistance":"10000MW/km"},
+		{"Operating Temperature":"-40°C-+70°C"},
+		{"Shielding":"No"}]
+ },
+ {
+	"id":"03",
+	"name":"UTP CAT5e PATCH CORD",
+
+	"parameter": [
+		{"Standard":"EIA/TIA-568A EIA/TIA-568B"}, 
+		{"Connector":"RJ45"},
+		{"Wire No":"8P8C"},
+		{"Color":"Optional color"},
+		{"Length":"0.5m/1m/2m/3m/5m/10m/15m"},
+		{"Suit cable":"23awg 24awg,4*2/7*0.16mm,4*2*7/0.2mm"},
+		{"Certificate":"CE ROHS Approved"},
+		{"Shield":""},
+		{"Stretching Resistance":"(max)250N"},
+		{"Impedance":"100 ±15%W @ 1~100MHz"},
+		{"Working Capacitance(Max.)":"5.4nF/100m"},
+		{"Insulation Resistance":"10000MW/km"},
+		{"Operating Temperature":"-40°C-+70°C"},
+		{"Shielding":""}]
+ },
+ {
+	"id":"04",
+	"name":"Telephone CAT3 PATCH CORD",
+
+	"parameter": [
+		{"Standard":"CE ROHS"}, 
+		{"Connector":"RJ11"},
+		{"Wire No":"6P2C"},
+		{"Color":"Optional color"},
+		{"Length":"0.5m/1m/2m/3m/5m/10m/15m"},
+		{"Suit cable":"24awg,4*2/7*0.16mm,4*2*7/0.2mm"},
+		{"Certificate":"CE ROHS Approved"},
+		{"Shield":""},
+		{"Stretching Resistance":"(max)250N"},
+		{"Impedance":"100 ±15%W @ 1~100MHz"},
+		{"Working Capacitance(Max.)":"5.4nF/100m"},
+		{"Insulation Resistance":"10000MW/km"},
+		{"Operating Temperature":"-40°C-+70°C"},
+		{"Shielding":""}]
+ },
+ {
+	"id":"05",
+	"name":"UTP cat6 cable",
+
+	"parameter": [
+		{"Conductor Size":"23AWG 0.56MM 0.57MM 0.58MM"},
+		{"Conductor Material":"CCA/CCU/BC"},
+		{"Number Of Conductor":"4P"},
+		{"Shield":"UTP/FTP/STP/SFTP"},
+		{"Flammability Grade":"CMP,CMX,CM,CMG,MPG,CMR,MPR"},
+		{"Indoor/Outdoor":"Single jacket/Double jacket"},
+		{"Insulation Material":"HDPE"},
+		{"Insulation Thickness":"1.02mm"},
+		{"Jacket Material":"PVC,ROHS PVC,LSZH PVC"},
+		{"Outer Jacket Thickness":"6.2mm"},
+		{"DC Resistance(Max.)":"9.5 Ohm/100m"},
+		{"DC Resistance Imbalance":"2.50%"},
+		{"Working Capacitance(Max.)":"5.4nF/100m"},
+		{"Insulation Resistance":"10000 MW.km"},
+		{"Transmission Velocity":"65%"},
+		{"Operating Temperature":"-40 °C - +75 °C"},
+		{"PVC Jacket Color":"Optional color"},
+		{"Marking On Jacket":"QL or OEM"}]
+ },
+ {
+	"id":"06",
+	"name":"Outdoor waterproof cat6 cable",
+
+	"parameter": [
+		{"Conductor Size":"23AWG 0.56MM 0.57MM 0.58MM"},
+		{"Conductor Material":"CCA/CCU/BC"},
+		{"Number Of Conductor":"4P"},
+		{"Shield":"UTP/FTP/SFTP"},
+		{"Flammability Grade":"CMP,CMX,CM,CMG,MPG,CMR,MPR"},
+		{"Indoor/Outdoor":"Single jacket/Double jacket"},
+		{"Insulation Material":"HDPE,PE"},
+		{"Insulation Thickness":"1.02mm"},
+		{"Jacket Material":"PVC,ROHS PVC,LSZH PVC"},
+		{"Outer Jacket Thickness":"6.2mm"},
+		{"DC Resistance(Max.)":"9.5 Ohm/100m"},
+		{"DC Resistance Imbalance":"2.50%"},
+		{"Working Capacitance(Max.)":"5.4nF/100m"},
+		{"Insulation Resistance":"10000 MW.km"},
+		{"Transmission Velocity":"65%"},
+		{"Operating Temperature":"-40 °C - +75 °C"},
+		{"PVC Jacket Color":"Optional color"},
+		{"Marking On Jacket":"QL or OEM"}]
+ },
+ {
+	"id":"07",
+	"name":"VGA CABLE",
+
+	"parameter": 
+	[
+		{"Item":"1 in 2 out vga Y splitter"},
+		{"Connector":"Nickel-Plated and Gold Plated(optional)"},
+		{"Conductor":"Copper,Tinned Cooper,CCS"},
+		{"OD":"5.5-8.0mm"},
+		{"Molding Type":"PVC Molding"},
+		{"AWG":"24/26/28/30/32AWG(optional)"},
+		{"Insulation":"PVC Jacket"},
+		{"Length":"30CM"},
+		{"Shielding":"AL+ML+Braiding+Ferrite(optional and customized)"},
+		{"Color":"Black, White, Blue or customized"},
+		{"Packaging":"PE Bag/Blister"},
+		{"Supported resolutions":"1024x768,1280x1024,1600x1200,1680x1050,and 1080P (Full HD)"},
+		{"Certificate":"CE,FCC"},
+		{"Application":"PC,computer to projector,plasma TV,LCD or CRT monitor,flat-panel receiver etc."}
+	]
+ },
+ {
+	"id":"08",
+	"name":"High Temperature Teflon cable wire",
+
+	"parameter": 
+	[
+		{"Product implementation standards":"UL758,UL1330,UL5230,UL1745"},
+		{"Size":"32AWG~2AWG"},
+		{"Rated Voltage":"600V"},
+		{"Rated Temperature":"-100°C~+200°C"},
+		{"Conductor":"tinned, silver or Nickel copper"},
+		{"Insulation":"FEP teflon"},
+		{"Color":"red / yellow / blue / white / black / yellow green / brown / orange / purple / green / etc"},
+		{"Product  features":"excellent resistance to high temperature, low temperature resistance, excellent electrical insulation performance high voltage resistance, aging resistance, long service life and soft and easy to install"},
+		{"Applications":["Widely used in lighting,household appliances,lamps",
+						 "electric appliances, instrumentation, motor wiring and electronics",
+						 "gas appliances and other high-temperature environment"]}
+	]
+ }
+]
