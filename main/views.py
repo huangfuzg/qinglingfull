@@ -55,7 +55,7 @@ def getAllNews(request):
 	finally:
 		return HttpResponse(json.dumps(ret))
 
-def getNews(request):
+def getNewsDetail(request):
 	news_id = request.GET['news_id']
 	ret = {"data":{},"success":False}
 	try:

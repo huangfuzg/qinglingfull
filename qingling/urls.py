@@ -22,7 +22,7 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('sendMail', main_views.sendMail),
     path('getNewsList', main_views.getAllNews),
-    path('getNewsDetail', main_views.getNews),
+    path('getNewsDetail', main_views.getNewsDetail),
     path('index', main_views.getIndex),
     path('product', main_views.getProduct),
     path('powercord', main_views.getPowercord),
