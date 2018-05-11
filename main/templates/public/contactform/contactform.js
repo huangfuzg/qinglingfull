@@ -97,7 +97,7 @@ jQuery(document).ready(function($) {
     let data = {name:name,subject:subject,email:email,context:context};
     console.log("POST");
     $.ajax({
-      url:"http://localhost:8000/sendMail",
+      url:"http://fruitninja.xin:8000/sendMail",
       type:"POST",
       dataType:"json",
       data:JSON.stringify(data),
