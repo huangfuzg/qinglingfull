@@ -76,6 +76,7 @@ body {
   border-bottom: none;
 }
 .sidebar #leftside-navigation ul ul li a {
+  text-align: center;
   font-size: 12px;
   padding-top: 13px;
   padding-bottom: 13px;
