@@ -1304,7 +1304,6 @@
 			"standard":"VDE0281",
 			"model":["H03VV-F","H05VV-F"],
 			"currentVoltage":["H03 300/300V","H05 300/500V"],
-			"temperature":"",
 			"application":["Housing electrical instruments and light"],
 			"modelParams":[
 				{
