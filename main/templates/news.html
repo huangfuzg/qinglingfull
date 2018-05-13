@@ -210,7 +210,7 @@
   function getNews(id){
     $.ajax({
       type:"GET",
-      url:"http://fruitninja.xin:8000/getNewsDetail?news_id="+id,
+      url:"/getNewsDetail?news_id="+id,
       dataType:"json",
       success:function(res){
         // console.log(res);
