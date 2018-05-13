@@ -1,0 +1,105 @@
+[{
+	"id":"00",
+	"name":"303 inline switch",
+	"drawing":"303 inline switch-1-drawing.png",
+	"picture":"303 inline switch-1-picture.png",
+
+	"parameter": [
+		{"Name":"Specification"}, 
+		{"Type":"303 inline switch"},
+		{"Length":"60mm"},
+		{"Width":"26.5mm"},
+		{"Height":"13.5mm"},
+		{"Color":"Black,White,Transparent"},
+		{"Touch Resistance":"≤20mΩ"},
+		{"Insulation Resistance":"≥100mΩ"},
+		{"Dielectric Strength":"≥1800VAC/3S"},
+		{"Power":"＜100W"},
+		{"Current Rate":" 5-20A"},
+		{"Current Voltage":"110-250V"}]
+ },
+ {
+	"id":"01",
+	"name":"304 inline switch",
+	"drawing":"304 inline switch-1-drawing.png",
+	"picture":"304 inline switch-1-picture.png",
+
+	"parameter": [
+		{"Name":"Specification"}, 
+		{"Type":"304 inline switch"},
+		{"Length":"60.5mm"},
+		{"Width":"19mm"},
+		{"Height":"15.8mm"},
+		{"Color":"Black,White,Transparent"},
+		{"Touch Resistance":"≤0.03mΩ"},
+		{"Insulation Resistance":"≥100mΩ"},
+		{"Dielectric Strength":"≥1500VAC/1min"},
+		{"Power":"＜100W"},
+		{"Current Rate":"2A"},
+		{"Current Voltage":"125-250V"}]
+ },
+ {
+	"id":"02",
+	"name":"339 inline switch",
+	"drawing":"339 inline switch-1-drawing.png",
+	"picture":"339 inline switch-1-picture.png",
+
+	"parameter": [
+		{"Name":"Specification"}, 
+		{"Type":"339 inline switch"},
+		{"Length":"69.63mm"},
+		{"Width":"34.06mm"},
+		{"Height":"32.8mm"},
+		{"Color":"Black,White,Transparent"},
+		{"Touch Resistance":"≤0.03mΩ"},
+		{"Insulation Resistance":"≥100mΩ"},
+		{"Dielectric Strength":"≥1500VAC/1min"},
+		{"Power":"＜100W"},
+		{"Current Rate":"2A"},
+		{"Current Voltage":"250V"}]
+ },
+ {
+	"id":"03",
+	"name":"TB09C rotary switch",
+	"drawing":"TB09C rotary switch-1-drawing.png",
+	"picture":"TB09C rotary switch-1-picture.png",
+
+	"parameter": [
+		{"Name":"Specification"}, 
+		{"Type":"TB09C rotary switch"},
+		{"Length":"35.5mm"},
+		{"Width":"18.98mm"},
+		{"Height":"16.97mm"},
+		{"Color":"Black,White,Transparent"},
+		{"Touch Resistance":"≤0.03mΩ"},
+		{"Insulation Resistance":"≥100mΩ"},
+		{"Dielectric Strength":"≥1500VAC/1min"},
+		{"Power":"＜100W"},
+		{"Current Rate":"2A"},
+		{"Current Voltage":"125V"}]
+ },
+ {
+	"id":"04",
+	"name":"KCD1",
+	"doc":"KCD1-Instruction book.pdf",
+	"parameter": []
+ },
+ {
+	"id":"05",
+	"name":"KCD2",
+	"doc":"",
+	"parameter": []
+ },
+ {
+	"id":"06",
+	"name":"KCD3",
+	"doc":"KCD3-Instruction book.pdf",
+	"parameter": []
+ },
+  {
+	"id":"07",
+	"name":"KCD8",
+	"doc":"KCD8-Instruction book.pdf",
+	"parameter": []
+ }
+]
