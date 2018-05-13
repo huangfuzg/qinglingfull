@@ -62,31 +62,31 @@ $(function () {
             title: 'Video1',
             href: 'static/factoryshow/img/1.mp4',
             type: 'video/mp4',
-            poster: 'static/factoryshow/img/factory1.jpg'
+            poster: 'static/factoryshow/img/video1.jpg'
         },
         {
             title: 'Video2',
             href: 'static/factoryshow/img/2.mp4',
             type: 'video/mp4',
-            poster: 'https://i.imgur.com/MUSw4Zu.jpg'
+            poster: 'static/factoryshow/img/video2.jpg'
         },
         {
             title: 'Video3',
             href: 'static/factoryshow/img/3.mp4',
             type: 'video/mp4',
-            poster: 'https://i.imgur.com/MUSw4Zu.jpg'
+            poster: 'static/factoryshow/img/video3.jpg'
         },
         {
             title: 'Video4',
             href: 'static/factoryshow/img/4.mp4',
             type: 'video/mp4',
-            poster: 'https://i.imgur.com/MUSw4Zu.jpg'
+            poster: 'static/factoryshow/img/video4.jpg'
         },
         {
             title: 'Video5',
             href: 'static/factoryshow/img/5.mp4',
             type: 'video/mp4',
-            poster: 'https://i.imgur.com/MUSw4Zu.jpg'
+            poster: 'static/factoryshow/img/video5.jpg'
         },
     ], {
         container: '#blueimp-video-carousel',
