@@ -73,14 +73,12 @@
 						"section(mm²)":"1.5",
 						"structure(No./mm)":"48/0.2",
 						"Insulation thickness(mm)":"0.7",
-						"Jacket thickness(mm)":"",
 						"OD(mm)":"3.0"
 					},
 					{
 						"section(mm²)":"2.5",
 						"structure(No./mm)":"80/0.2",
 						"Insulation thickness(mm)":"0.8",
-						"Jacket thickness(mm)":"",
 						"OD(mm)":"3.65"
 					}]
 				},
@@ -91,28 +89,24 @@
 						"section(mm²)":"0.75",
 						"structure(No./mm)":"42/0.15",
 						"Insulation thickness(mm)":"0.6",
-						"Jacket thickness(mm)":"",
 						"OD(mm)":"2.6"
 					},
 					{
 						"section(mm²)":"1.0",
 						"structure(No./mm)":"32/0.2",
 						"Insulation thickness(mm)":"0.6",
-						"Jacket thickness(mm)":"",
 						"OD(mm)":"2.8"
 					},
 					{
 						"section(mm²)":"1.5",
 						"structure(No./mm)":"48/0.2",
 						"Insulation thickness(mm)":"0.7",
-						"Jacket thickness(mm)":"",
 						"OD(mm)":"3.05"
 					},
 					{
 						"section(mm²)":"2.5",
 						"structure(No./mm)":"80/0.2",
 						"Insulation thickness(mm)":"0.8",
-						"Jacket thickness(mm)":"",
 						"OD(mm)":"3.7"
 					}]
 				}
@@ -133,7 +127,6 @@
 						"section(mm²)":"0.5",
 						"structure(No./mm)":"28/0.15",
 						"Insulation thickness(mm)":"0.8",
-						"Jacket thickness(mm)":"",
 						"OD(mm)":"2.7X5.4"
 					},
 					{
@@ -141,7 +134,6 @@
 						"section(mm²)":"0.75",
 						"structure(No./mm)":"42/0.15",
 						"Insulation thickness(mm)":"0.8",
-						"Jacket thickness(mm)":"",
 						"OD(mm)":"2.9X5.8"
 					}]
 				}]
@@ -1185,7 +1177,6 @@
 						"section(mm²)":"0.5",
 						"structure(No./mm)":"20/0.18",
 						"Insulation thickness(mm)":"0.8",
-						"Jacket thickness(mm)":"",
 						"OD(mm)":"2.5×5.0"
 					},
 					{
@@ -1193,7 +1184,6 @@
 						"section(mm²)":"0.75",
 						"structure(No./mm)":"30/0.18",
 						"Insulation thickness(mm)":"0.8",
-						"Jacket thickness(mm)":"",
 						"OD(mm)":"2.7×5.4"
 					},
 					{
@@ -1201,7 +1191,6 @@
 						"section(mm²)":"1.25",
 						"structure(No./mm)":"50/0.18",
 						"Insulation thickness(mm)":"0.8",
-						"Jacket thickness(mm)":"",
 						"OD(mm)":"3.1×6.2"
 					}]
 				},
@@ -1304,7 +1293,6 @@
 			"standard":"VDE0281",
 			"model":["H03VV-F","H05VV-F"],
 			"currentVoltage":["H03 300/300V","H05 300/500V"],
-			"temperature":"",
 			"application":["Housing electrical instruments and light"],
 			"modelParams":[
 				{

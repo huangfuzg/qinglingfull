@@ -1,19 +1,54 @@
 [{
 	"id":"00",
-	"name":"Switch",
+	"name":"303 inline",
 
 	"imgurl": [
-		"/imgs/switch/1.jpg",
-		"/imgs/switch/2.jpg",
-		"/imgs/switch/3.jpg",
-		"/imgs/switch/4.jpg",
-		"/imgs/switch/5.jpg",
-		"/imgs/switch/6.jpg",
-		"/imgs/switch/7.jpg",
-		"/imgs/switch/8.jpg",
-		"/imgs/switch/9.jpg",
-		"/imgs/switch/10.jpg",
-		"/imgs/switch/11.jpg",
-		"/imgs/switch/12.jpg",
-		"/imgs/switch/13.jpg"]
+		"/imgs/switch/303.png"]
+},
+{
+	"id":"01",
+	"name":"304 inline",
+
+	"imgurl": [
+		"/imgs/switch/304.png","/imgs/switch/304-1.png"]
+},
+{
+	"id":"02",
+	"name":"339 inline",
+
+	"imgurl": [
+		"/imgs/switch/339.png","/imgs/switch/339-1.png"
+	]
+},{
+	"id":"03",
+	"name":"TB09C rotary",
+
+	"imgurl": [
+		"/imgs/switch/TB09C.png","/imgs/switch/TB09C-1.png"]
+},
+{
+	"id":"04",
+	"name":"KCD1",
+
+	"imgurl": [
+		"/imgs/switch/KCD1.png"]
+},
+{
+	"id":"05",
+	"name":"KCD2",
+
+	"imgurl": [
+		"/imgs/switch/KCD2.png"]
+},{
+	"id":"06",
+	"name":"KCD3",
+
+	"imgurl": [
+		"/imgs/switch/KCD3.png","/imgs/switch/KCD3-1.png"]
+},{
+	"id":"07",
+	"name":"KCD8",
+
+	"imgurl": [
+		"/imgs/switch/KCD8.png","/imgs/switch/KCD8-1.png"]
 }]

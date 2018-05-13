@@ -31,7 +31,7 @@
 	"imgurl":["/imgs/network_cable/USB cable/QLC4002/1.jpg",
 			  "/imgs/network_cable/USB cable/QLC4002/2.jpg",
 			  "/imgs/network_cable/USB cable/QLC4002/3.jpg"],
-	
+
 	"parameter":[
 		{"Length":"0.2m,1m,2m,3m,customized"},
 		{"OD":"2.65mm"},
@@ -158,18 +158,11 @@
 
 	"parameter":[
 		{"Length":"0.3M/customized"},
-		{"OD":""},
 		{"Conductor":"Tinned copper"},
-		{"Shielding":""},
-		{"Available gauge":""},
 		{"Jacket":"PVC"},
 		{"Connector":"Nickel Plated"},
 		{"Function":"extension otg cable for data transfer and charging"},
 		{"Color":"standard grey and yellow or customized for extension otg usb cable"},
-		{"Package":"poly bag/customized"},
-		{"Sample":""},
-		{"Certification":""},
-		{"Compatible":""},
-		{"Packaging":""}]
+		{"Package":"poly bag/customized"}]
  }
 ]

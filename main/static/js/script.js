@@ -29,7 +29,7 @@ function getData(page){
   $.ajax({
     type:"GET",
     // url:"data/news.json?t="+timer,
-    url:"http://fruitninja.xin:8000/getNewsList?page="+page,
+    url:"/getNewsList?page="+page,
     dataType:'json',
     jsonpCallback:"callback",
     success:function(res){
