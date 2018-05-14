@@ -82,24 +82,28 @@
 	"id":"04",
 	"name":"KCD1",
 	"doc":"KCD1-Instruction book.pdf",
+	"drawing":"KCD1.png",
 	"parameter": []
  },
  {
 	"id":"05",
 	"name":"KCD2",
 	"doc":"",
+	"drawing":"",
 	"parameter": []
  },
  {
 	"id":"06",
 	"name":"KCD3",
 	"doc":"KCD3-Instruction book.pdf",
+	"drawing":"KCD3.png",
 	"parameter": []
  },
   {
 	"id":"07",
 	"name":"KCD8",
 	"doc":"KCD8-Instruction book.pdf",
+	"drawing":"KCD8.png",
 	"parameter": []
  }
 ]
