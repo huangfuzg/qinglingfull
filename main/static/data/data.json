@@ -206,7 +206,9 @@
 		"/imgs/ac_power/usa_ac_power/picture/Usapowercord-3-picture.png",
 		"/imgs/ac_power/usa_ac_power/picture/Usapowercord-4-picture.png",
 		"/imgs/ac_power/usa_ac_power/picture/Usapowercord-5-picture.png",
-		"/imgs/ac_power/usa_ac_power/picture/Usapowercord-6-picture.png"],
+		"/imgs/ac_power/usa_ac_power/picture/Usapowercord-6-picture.png",
+		"/imgs/ac_power/usa_ac_power/picture/Usapowercord-7-picture.png",
+		"/imgs/ac_power/usa_ac_power/picture/Usapowercord-8-picture.png"],
 
 	"products": [{
 		"imgurl": "/imgs/ac_power/usa_ac_power/model/model1.jpg",
