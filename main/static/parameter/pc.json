@@ -891,7 +891,7 @@
 			"modelParams":[
 				{
 					"name":"SPT-1",
-					"img":[""],
+					"img":["SPT-1-1.png","SPT-1-2.png"],
 					"others":[{
 						"core":"2",
 						"AWG":"18",
@@ -911,7 +911,7 @@
 				},
 				{
 					"name":"SPT-2",
-					"img":[""],
+					"img":["SPT-1-1.png","SPT-1-2.png"],
 					"others":[{
 						"core":"2",
 						"AWG":"18",
@@ -947,7 +947,7 @@
 				},
 				{
 					"name":"SPT-3",
-					"img":[""],
+					"img":["SPT-1-1.png","SPT-1-2.png"],
 					"others":[{
 						"core":"2",
 						"AWG":"18",
@@ -983,7 +983,7 @@
 				},
 				{
 					"name":"NISPT-1",
-					"img":[""],
+					"img":["NISPT-1.png"],
 					"others":[{
 						"core":"2",
 						"AWG":"18",
@@ -996,7 +996,7 @@
 				},
 				{
 					"name":"NISPT-2",
-					"img":[""],
+					"img":["NISPT-1.png"],
 					"others":[{
 						"core":"2",
 						"AWG":"18",
@@ -1009,7 +1009,7 @@
 				},
 				{
 					"name":"SVT",
-					"img":[""],
+					"img":["SVT-1.png","SVT-2.png","SVT-3.png","SVT-4.png"],
 					"others":[{
 						"core":"2",
 						"AWG":"18",
@@ -1049,7 +1049,7 @@
 				},
 				{
 					"name":"ST",
-					"img":[""],
+					"img":["SVT-1.png","SVT-2.png","SVT-3.png","SVT-4.png"],
 					"others":[{
 						"core":"2",
 						"AWG":"18",
@@ -1089,7 +1089,7 @@
 				},
 				{
 					"name":"SJT",
-					"img":[""],
+					"img":["SVT-1.png","SVT-2.png","SVT-3.png","SVT-4.png"],
 					"others":[{
 						"core":"2",
 						"AWG":"18",
